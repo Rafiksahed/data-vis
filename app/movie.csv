@@ -1,0 +1,5127 @@
+MOVIES,YEAR,GENRE,RATING,STARS,VOTES,RunTime,Gross
+The Hitman's Bodyguard,2017,"
+Action, Comedy, Crime            ",6.9,"
+    Director:
+Patrick Hughes
+| 
+    Stars:
+Ryan Reynolds, 
+Samuel L. Jackson, 
+Gary Oldman, 
+Elodie Yung
+","205,979",118.0,75.47
+Jurassic Park,1993,"
+Action, Adventure, Sci-Fi            ",8.1,"
+    Director:
+Steven Spielberg
+| 
+    Stars:
+Sam Neill, 
+Laura Dern, 
+Jeff Goldblum, 
+Richard Attenborough
+","897,444",127.0,402.45
+Don't Breathe,2016,"
+Crime, Horror, Thriller            ",7.1,"
+    Director:
+Fede Alvarez
+| 
+    Stars:
+Stephen Lang, 
+Jane Levy, 
+Dylan Minnette, 
+Daniel Zovatto
+","237,601",88.0,89.22
+The Lord of the Rings: The Fellowship of the Ring,2001,"
+Action, Adventure, Drama            ",8.8,"
+    Director:
+Peter Jackson
+| 
+    Stars:
+Elijah Wood, 
+Ian McKellen, 
+Orlando Bloom, 
+Sean Bean
+","1,713,028",178.0,315.54
+Escape Room,2019,"
+Action, Adventure, Horror            ",6.4,"
+    Director:
+Adam Robitel
+| 
+    Stars:
+Taylor Russell, 
+Logan Miller, 
+Jay Ellis, 
+Tyler Labine
+","99,351",99.0,57.01
+Jaws,1975,"
+Adventure, Thriller            ",8.0,"
+    Director:
+Steven Spielberg
+| 
+    Stars:
+Roy Scheider, 
+Robert Shaw, 
+Richard Dreyfuss, 
+Lorraine Gary
+","558,731",124.0,260.0
+The Departed,2006,"
+Crime, Drama, Thriller            ",8.5,"
+    Director:
+Martin Scorsese
+| 
+    Stars:
+Leonardo DiCaprio, 
+Matt Damon, 
+Jack Nicholson, 
+Mark Wahlberg
+","1,227,522",151.0,132.38
+Gone Girl,2014,"
+Drama, Mystery, Thriller            ",8.1,"
+    Director:
+David Fincher
+| 
+    Stars:
+Ben Affleck, 
+Rosamund Pike, 
+Neil Patrick Harris, 
+Tyler Perry
+","895,888",149.0,167.77
+Jumanji: Welcome to the Jungle,2017,"
+Action, Adventure, Comedy            ",6.9,"
+    Director:
+Jake Kasdan
+| 
+    Stars:
+Dwayne Johnson, 
+Karen Gillan, 
+Kevin Hart, 
+Jack Black
+","337,900",119.0,404.52
+American Psycho,2000,"
+Comedy, Crime, Drama            ",7.6,"
+    Director:
+Mary Harron
+| 
+    Stars:
+Christian Bale, 
+Justin Theroux, 
+Josh Lucas, 
+Bill Sage
+","517,014",101.0,15.07
+Kill Bill: Vol. 1,2003,"
+Action, Crime, Drama            ",8.1,"
+    Director:
+Quentin Tarantino
+| 
+    Stars:
+Uma Thurman, 
+David Carradine, 
+Daryl Hannah, 
+Michael Madsen
+","1,034,554",111.0,70.1
+300,2006,"
+Action, Drama            ",7.6,"
+    Director:
+Zack Snyder
+| 
+    Stars:
+Gerard Butler, 
+Lena Headey, 
+David Wenham, 
+Dominic West
+","751,815",117.0,210.61
+It,2017,"
+Horror            ",7.3,"
+    Director:
+Andy Muschietti
+| 
+    Stars:
+Bill Skarsgård, 
+Jaeden Martell, 
+Finn Wolfhard, 
+Sophia Lillis
+","480,607",135.0,327.48
+Spider-Man: Far from Home,2019,"
+Action, Adventure, Sci-Fi            ",7.5,"
+    Director:
+Jon Watts
+| 
+    Stars:
+Tom Holland, 
+Samuel L. Jackson, 
+Jake Gyllenhaal, 
+Marisa Tomei
+","363,012",129.0,390.53
+The Hobbit: An Unexpected Journey,2012,"
+Adventure, Fantasy            ",7.8,"
+    Director:
+Peter Jackson
+| 
+    Stars:
+Martin Freeman, 
+Ian McKellen, 
+Richard Armitage, 
+Andy Serkis
+","774,632",169.0,303.0
+Clueless,1995,"
+Comedy, Romance            ",6.8,"
+    Director:
+Amy Heckerling
+| 
+    Stars:
+Alicia Silverstone, 
+Stacey Dash, 
+Brittany Murphy, 
+Paul Rudd
+","194,461",97.0,56.63
+Baywatch,2017,"
+Action, Comedy, Crime            ",5.5,"
+    Director:
+Seth Gordon
+| 
+    Stars:
+Dwayne Johnson, 
+Zac Efron, 
+Alexandra Daddario, 
+Priyanka Chopra Jonas
+","170,844",116.0,58.06
+Fast & Furious 7,2015,"
+Action, Adventure, Thriller            ",7.1,"
+    Director:
+James Wan
+| 
+    Stars:
+Vin Diesel, 
+Paul Walker, 
+Dwayne Johnson, 
+Jason Statham
+","371,194",137.0,353.01
+Sicario,2015,"
+Action, Crime, Drama            ",7.6,"
+    Director:
+Denis Villeneuve
+| 
+    Stars:
+Emily Blunt, 
+Josh Brolin, 
+Benicio Del Toro, 
+Jon Bernthal
+","387,903",121.0,46.89
+The Irishman,2019,"
+Biography, Crime, Drama            ",7.8,"
+    Director:
+Martin Scorsese
+| 
+    Stars:
+Robert De Niro, 
+Al Pacino, 
+Joe Pesci, 
+Harvey Keitel
+","345,455",209.0,7.0
+The Lord of the Rings: The Return of the King,2003,"
+Action, Adventure, Drama            ",8.9,"
+    Director:
+Peter Jackson
+| 
+    Stars:
+Elijah Wood, 
+Viggo Mortensen, 
+Ian McKellen, 
+Orlando Bloom
+","1,691,777",201.0,377.85
+Baby Driver,2017,"
+Action, Crime, Drama            ",7.6,"
+    Director:
+Edgar Wright
+| 
+    Stars:
+Ansel Elgort, 
+Jon Bernthal, 
+Jon Hamm, 
+Eiza González
+","468,655",113.0,107.83
+Spider-Man,2002,"
+Action, Adventure, Sci-Fi            ",7.3,"
+    Director:
+Sam Raimi
+| 
+    Stars:
+Tobey Maguire, 
+Kirsten Dunst, 
+Willem Dafoe, 
+James Franco
+","709,684",121.0,403.71
+Jumanji: The Next Level,2019,"
+Action, Adventure, Comedy            ",6.7,"
+    Director:
+Jake Kasdan
+| 
+    Stars:
+Dwayne Johnson, 
+Jack Black, 
+Kevin Hart, 
+Karen Gillan
+","205,638",123.0,316.83
+Arrival,2016,"
+Drama, Sci-Fi            ",7.9,"
+    Director:
+Denis Villeneuve
+| 
+    Stars:
+Amy Adams, 
+Jeremy Renner, 
+Forest Whitaker, 
+Michael Stuhlbarg
+","623,912",116.0,100.55
+Taxi Driver,1976,"
+Crime, Drama            ",8.2,"
+    Director:
+Martin Scorsese
+| 
+    Stars:
+Robert De Niro, 
+Jodie Foster, 
+Cybill Shepherd, 
+Albert Brooks
+","752,553",114.0,28.26
+Grease,1978,"
+Musical, Romance            ",7.2,"
+    Director:
+Randal Kleiser
+| 
+    Stars:
+John Travolta, 
+Olivia Newton-John, 
+Stockard Channing, 
+Jeff Conaway
+","250,587",110.0,188.76
+Venom,2018,"
+Action, Adventure, Sci-Fi            ",6.7,"
+    Director:
+Ruben Fleischer
+| 
+    Stars:
+Tom Hardy, 
+Michelle Williams, 
+Riz Ahmed, 
+Scott Haze
+","390,167",112.0,213.52
+The Fate of the Furious,2017,"
+Action, Adventure, Crime            ",6.6,"
+    Director:
+F. Gary Gray
+| 
+    Stars:
+Vin Diesel, 
+Jason Statham, 
+Dwayne Johnson, 
+Michelle Rodriguez
+","215,795",136.0,226.01
+Captain America: Civil War,2016,"
+Action, Adventure, Sci-Fi            ",7.8,"
+    Directors:
+Anthony Russo, 
+Joe Russo
+| 
+    Stars:
+Chris Evans, 
+Robert Downey Jr., 
+Scarlett Johansson, 
+Sebastian Stan
+","697,750",147.0,408.08
+Sen to Chihiro no kamikakushi,2001,"
+Animation, Adventure, Family            ",8.6,"
+    Director:
+Hayao Miyazaki
+| 
+    Stars:
+Daveigh Chase, 
+Suzanne Pleshette, 
+Miyu Irino, 
+Rumi Hiiragi
+","682,809",125.0,10.06
+The Girl in the Spider's Web,2018,"
+Action, Crime, Drama            ",6.1,"
+    Director:
+Fede Alvarez
+| 
+    Stars:
+Claire Foy, 
+Beau Gadsdon, 
+Sverrir Gudnason, 
+LaKeith Stanfield
+","43,896",115.0,14.84
+Kong: Skull Island,2017,"
+Action, Adventure, Fantasy            ",6.6,"
+    Director:
+Jordan Vogt-Roberts
+| 
+    Stars:
+Tom Hiddleston, 
+Samuel L. Jackson, 
+Brie Larson, 
+John C. Reilly
+","294,292",118.0,168.05
+The Revenant,2015,"
+Action, Adventure, Drama            ",8.0,"
+    Director:
+Alejandro G. Iñárritu
+| 
+    Stars:
+Leonardo DiCaprio, 
+Tom Hardy, 
+Will Poulter, 
+Domhnall Gleeson
+","732,244",156.0,183.64
+The Lord of the Rings: The Two Towers,2002,"
+Action, Adventure, Drama            ",8.7,"
+    Director:
+Peter Jackson
+| 
+    Stars:
+Elijah Wood, 
+Ian McKellen, 
+Viggo Mortensen, 
+Orlando Bloom
+","1,529,752",179.0,342.55
+Legally Blonde,2001,"
+Comedy, Romance            ",6.3,"
+    Director:
+Robert Luketic
+| 
+    Stars:
+Reese Witherspoon, 
+Luke Wilson, 
+Selma Blair, 
+Matthew Davis
+","195,752",96.0,96.52
+Ocean's Eight,2018,"
+Action, Comedy, Crime            ",6.3,"
+    Director:
+Gary Ross
+| 
+    Stars:
+Sandra Bullock, 
+Cate Blanchett, 
+Anne Hathaway, 
+Mindy Kaling
+","197,909",110.0,140.22
+Pirates of the Caribbean: Dead Men Tell No Tales,2017,"
+Action, Adventure, Fantasy            ",6.5,"
+    Directors:
+Joachim Rønning, 
+Espen Sandberg
+| 
+    Stars:
+Johnny Depp, 
+Geoffrey Rush, 
+Javier Bardem, 
+Orlando Bloom
+","276,173",129.0,172.56
+2001: A Space Odyssey,1968,"
+Adventure, Sci-Fi            ",8.3,"
+    Director:
+Stanley Kubrick
+| 
+    Stars:
+Keir Dullea, 
+Gary Lockwood, 
+William Sylvester, 
+Daniel Richter
+","622,998",149.0,56.95
+Batman v Superman: Dawn of Justice,2016,"
+Action, Adventure, Sci-Fi            ",6.4,"
+    Director:
+Zack Snyder
+| 
+    Stars:
+Ben Affleck, 
+Henry Cavill, 
+Amy Adams, 
+Jesse Eisenberg
+","657,423",152.0,330.36
+Mother!,2017,"
+Drama, Horror, Mystery            ",6.6,"
+    Director:
+Darren Aronofsky
+| 
+    Stars:
+Jennifer Lawrence, 
+Javier Bardem, 
+Ed Harris, 
+Michelle Pfeiffer
+","201,141",121.0,17.8
+National Lampoon's Animal House,1978,"
+Comedy            ",7.5,"
+    Director:
+John Landis
+| 
+    Stars:
+John Belushi, 
+Karen Allen, 
+Tom Hulce, 
+Stephen Furst
+","115,289",109.0,0.2
+Midnight in Paris,2011,"
+Comedy, Fantasy, Romance            ",7.7,"
+    Director:
+Woody Allen
+| 
+    Stars:
+Owen Wilson, 
+Rachel McAdams, 
+Kathy Bates, 
+Kurt Fuller
+","399,157",94.0,56.82
+Kill Bill: Vol. 2,2004,"
+Action, Crime, Thriller            ",8.0,"
+    Director:
+Quentin Tarantino
+| 
+    Stars:
+Uma Thurman, 
+David Carradine, 
+Michael Madsen, 
+Daryl Hannah
+","706,053",137.0,66.21
+Moneyball,2011,"
+Biography, Drama, Sport            ",7.6,"
+    Director:
+Bennett Miller
+| 
+    Stars:
+Brad Pitt, 
+Robin Wright, 
+Jonah Hill, 
+Philip Seymour Hoffman
+","386,263",133.0,75.61
+Snowpiercer,2013,"
+Action, Drama, Sci-Fi            ",7.1,"
+    Director:
+Bong Joon Ho
+| 
+    Stars:
+Chris Evans, 
+Jamie Bell, 
+Tilda Swinton, 
+Ed Harris
+","335,946",126.0,4.56
+300: Rise of an Empire,2014,"
+Action, Drama            ",6.2,"
+    Director:
+Noam Murro
+| 
+    Stars:
+Sullivan Stapleton, 
+Eva Green, 
+Lena Headey, 
+Hans Matheson
+","286,734",102.0,106.58
+Kimi no na wa.,2016,"
+Animation, Drama, Fantasy            ",8.4,"
+    Director:
+Makoto Shinkai
+| 
+    Stars:
+Ryûnosuke Kamiki, 
+Mone Kamishiraishi, 
+Ryô Narita, 
+Aoi Yûki
+","217,433",106.0,5.02
+Booksmart,2019,"
+Comedy            ",7.2,"
+    Director:
+Olivia Wilde
+| 
+    Stars:
+Kaitlyn Dever, 
+Beanie Feldstein, 
+Jessica Williams, 
+Jason Sudeikis
+","103,143",102.0,22.68
+Jaws 2,1978,"
+Adventure, Horror, Thriller            ",5.8,"
+    Director:
+Jeannot Szwarc
+| 
+    Stars:
+Roy Scheider, 
+Lorraine Gary, 
+Murray Hamilton, 
+Joseph Mascolo
+","73,931",116.0,102.92
+Tropic Thunder,2008,"
+Action, Comedy, War            ",7.0,"
+    Director:
+Ben Stiller
+| 
+    Stars:
+Ben Stiller, 
+Jack Black, 
+Robert Downey Jr., 
+Jeff Kahn
+","391,033",107.0,110.52
+Beauty and the Beast,2017,"
+Family, Fantasy, Musical            ",7.1,"
+    Director:
+Bill Condon
+| 
+    Stars:
+Emma Watson, 
+Dan Stevens, 
+Luke Evans, 
+Josh Gad
+","284,484",129.0,504.01
+Hell or High Water,2016,"
+Action, Crime, Drama            ",7.6,"
+    Director:
+David Mackenzie
+| 
+    Stars:
+Chris Pine, 
+Ben Foster, 
+Jeff Bridges, 
+Gil Birmingham
+","211,816",102.0,26.86
+Marriage Story,2019,"
+Comedy, Drama, Romance            ",7.9,"
+    Director:
+Noah Baumbach
+| 
+    Stars:
+Adam Driver, 
+Scarlett Johansson, 
+Julia Greer, 
+Azhy Robertson
+","266,307",137.0,2.0
+Annihilation,2018,"
+Adventure, Drama, Horror            ",6.8,"
+    Director:
+Alex Garland
+| 
+    Stars:
+Natalie Portman, 
+Jennifer Jason Leigh, 
+Tessa Thompson, 
+Benedict Wong
+","293,459",115.0,32.73
+Wind River,2017,"
+Crime, Drama, Mystery            ",7.7,"
+    Director:
+Taylor Sheridan
+| 
+    Stars:
+Elizabeth Olsen, 
+Jeremy Renner, 
+Graham Greene, 
+Kelsey Asbille
+","218,337",107.0,33.8
+Frozen,2013,"
+Animation, Adventure, Comedy            ",7.4,"
+    Directors:
+Chris Buck, 
+Jennifer Lee
+| 
+    Stars:
+Kristen Bell, 
+Idina Menzel, 
+Jonathan Groff, 
+Josh Gad
+","586,769",102.0,400.74
+Lo imposible,2012,"
+Drama, History, Thriller            ",7.6,"
+    Director:
+J.A. Bayona
+| 
+    Stars:
+Naomi Watts, 
+Ewan McGregor, 
+Tom Holland, 
+Oaklee Pendergast
+","208,903",114.0,19.02
+The Nice Guys,2016,"
+Action, Comedy, Crime            ",7.4,"
+    Director:
+Shane Black
+| 
+    Stars:
+Russell Crowe, 
+Ryan Gosling, 
+Angourie Rice, 
+Matt Bomer
+","295,435",116.0,36.26
+The Snowman,2017,"
+Crime, Drama, Thriller            ",5.1,"
+    Director:
+Tomas Alfredson
+| 
+    Stars:
+Michael Fassbender, 
+Rebecca Ferguson, 
+Charlotte Gainsbourg, 
+Jonas Karlsson
+","60,354",119.0,6.67
+Moonrise Kingdom,2012,"
+Comedy, Drama, Romance            ",7.8,"
+    Director:
+Wes Anderson
+| 
+    Stars:
+Jared Gilman, 
+Kara Hayward, 
+Bruce Willis, 
+Bill Murray
+","328,550",94.0,45.51
+Contagion,2011,"
+Drama, Thriller            ",6.7,"
+    Director:
+Steven Soderbergh
+| 
+    Stars:
+Matt Damon, 
+Kate Winslet, 
+Jude Law, 
+Gwyneth Paltrow
+","290,444",106.0,75.66
+This Is England,2006,"
+Crime, Drama            ",7.7,"
+    Director:
+Shane Meadows
+| 
+    Stars:
+Thomas Turgoose, 
+Stephen Graham, 
+Jo Hartley, 
+Andrew Shim
+","117,889",101.0,0.33
+Willy Wonka & the Chocolate Factory,1971,"
+Family, Fantasy, Musical            ",7.8,"
+    Director:
+Mel Stuart
+| 
+    Stars:
+Gene Wilder, 
+Jack Albertson, 
+Peter Ostrum, 
+Roy Kinnear
+","186,202",100.0,4.0
+Homefront,2013,"
+Action, Crime, Thriller            ",6.5,"
+    Director:
+Gary Fleder
+| 
+    Stars:
+Jason Statham, 
+James Franco, 
+Winona Ryder, 
+Kate Bosworth
+","113,476",100.0,20.16
+Dead Poets Society,1989,"
+Comedy, Drama            ",8.1,"
+    Director:
+Peter Weir
+| 
+    Stars:
+Robin Williams, 
+Robert Sean Leonard, 
+Ethan Hawke, 
+Josh Charles
+","443,357",128.0,95.86
+There's Something About Mary,1998,"
+Comedy, Romance            ",7.1,"
+    Directors:
+Bobby Farrelly, 
+Peter Farrelly
+| 
+    Stars:
+Cameron Diaz, 
+Matt Dillon, 
+Ben Stiller, 
+Lee Evans
+","298,729",119.0,176.48
+Lucy,2014,"
+Action, Sci-Fi, Thriller            ",6.4,"
+    Director:
+Luc Besson
+| 
+    Stars:
+Scarlett Johansson, 
+Morgan Freeman, 
+Choi Min-sik, 
+Amr Waked
+","462,122",89.0,126.66
+The Mummy,2017,"
+Action, Adventure, Fantasy            ",5.4,"
+    Director:
+Alex Kurtzman
+| 
+    Stars:
+Tom Cruise, 
+Sofia Boutella, 
+Annabelle Wallis, 
+Russell Crowe
+","177,592",110.0,80.1
+Birdman or (The Unexpected Virtue of Ignorance),2014,"
+Comedy, Drama            ",7.7,"
+    Director:
+Alejandro G. Iñárritu
+| 
+    Stars:
+Michael Keaton, 
+Zach Galifianakis, 
+Edward Norton, 
+Andrea Riseborough
+","595,946",119.0,42.34
+Knock Knock,2015,"
+Drama, Thriller            ",4.9,"
+    Director:
+Eli Roth
+| 
+    Stars:
+Keanu Reeves, 
+Lorenza Izzo, 
+Ana de Armas, 
+Aaron Burns
+","87,474",99.0,0.04
+Hauru no ugoku shiro,2004,"
+Animation, Adventure, Family            ",8.2,"
+    Director:
+Hayao Miyazaki
+| 
+    Stars:
+Chieko Baishô, 
+Takuya Kimura, 
+Tatsuya Gashûin, 
+Akihiro Miwa
+","351,466",119.0,4.71
+Now You See Me,2013,"
+Crime, Mystery, Thriller            ",7.2,"
+    Director:
+Louis Leterrier
+| 
+    Stars:
+Jesse Eisenberg, 
+Common, 
+Mark Ruffalo, 
+Woody Harrelson
+","614,056",115.0,117.72
+The Lost World: Jurassic Park,1997,"
+Action, Adventure, Sci-Fi            ",6.6,"
+    Director:
+Steven Spielberg
+| 
+    Stars:
+Jeff Goldblum, 
+Julianne Moore, 
+Pete Postlethwaite, 
+Vince Vaughn
+","390,425",129.0,229.09
+Geostorm,2017,"
+Action, Sci-Fi, Thriller            ",5.3,"
+    Director:
+Dean Devlin
+| 
+    Stars:
+Gerard Butler, 
+Jim Sturgess, 
+Abbie Cornish, 
+Alexandra Maria Lara
+","99,724",109.0,33.7
+Sausage Party,2016,"
+Animation, Adventure, Comedy            ",6.1,"
+    Directors:
+Greg Tiernan, 
+Conrad Vernon
+| 
+    Stars:
+Seth Rogen, 
+Kristen Wiig, 
+Jonah Hill, 
+Alistair Abell
+","181,775",89.0,97.69
+The Next Three Days,2010,"
+Action, Crime, Drama            ",7.3,"
+    Director:
+Paul Haggis
+| 
+    Stars:
+Russell Crowe, 
+Elizabeth Banks, 
+Liam Neeson, 
+Michael Buie
+","189,815",133.0,21.15
+Moonlight,2016,"
+Drama            ",7.4,"
+    Director:
+Barry Jenkins
+| 
+    Stars:
+Mahershala Ali, 
+Naomie Harris, 
+Trevante Rhodes, 
+Alex R. Hibbert
+","285,273",111.0,27.85
+In the Heart of the Sea,2015,"
+Action, Adventure, Biography            ",6.9,"
+    Director:
+Ron Howard
+| 
+    Stars:
+Chris Hemsworth, 
+Cillian Murphy, 
+Brendan Gleeson, 
+Ben Whishaw
+","128,605",122.0,25.02
+Contact,1997,"
+Drama, Mystery, Sci-Fi            ",7.5,"
+    Director:
+Robert Zemeckis
+| 
+    Stars:
+Jodie Foster, 
+Matthew McConaughey, 
+Tom Skerritt, 
+John Hurt
+","261,289",150.0,100.92
+Climax,2018,"
+Drama, Horror, Music            ",7.0,"
+    Director:
+Gaspar Noé
+| 
+    Stars:
+Sofia Boutella, 
+Romain Guillermic, 
+Souheila Yacoub, 
+Kiddy Smile
+","58,051",97.0,0.8
+Gods of Egypt,2016,"
+Action, Adventure, Fantasy            ",5.4,"
+    Director:
+Alex Proyas
+| 
+    Stars:
+Brenton Thwaites, 
+Nikolaj Coster-Waldau, 
+Gerard Butler, 
+Chadwick Boseman
+","109,959",127.0,31.15
+Kung Fu Panda 3,2016,"
+Animation, Action, Adventure            ",7.1,"
+    Directors:
+Alessandro Carloni, 
+Jennifer Yuh Nelson
+| 
+    Stars:
+Jack Black, 
+Bryan Cranston, 
+Dustin Hoffman, 
+Angelina Jolie
+","141,657",95.0,143.53
+Ender's Game,2013,"
+Action, Adventure, Fantasy            ",6.6,"
+    Director:
+Gavin Hood
+| 
+    Stars:
+Harrison Ford, 
+Asa Butterfield, 
+Hailee Steinfeld, 
+Abigail Breslin
+","228,812",114.0,61.74
+Planet of the Apes,1968,"
+Adventure, Sci-Fi            ",8.0,"
+    Director:
+Franklin J. Schaffner
+| 
+    Stars:
+Charlton Heston, 
+Roddy McDowall, 
+Kim Hunter, 
+Maurice Evans
+","170,681",112.0,33.4
+Downsizing,2017,"
+Drama, Fantasy, Sci-Fi            ",5.7,"
+    Director:
+Alexander Payne
+| 
+    Stars:
+Matt Damon, 
+Christoph Waltz, 
+Hong Chau, 
+Kristen Wiig
+","102,222",135.0,24.45
+Lone Survivor,2013,"
+Action, Biography, Drama            ",7.5,"
+    Director:
+Peter Berg
+| 
+    Stars:
+Mark Wahlberg, 
+Taylor Kitsch, 
+Emile Hirsch, 
+Ben Foster
+","273,061",121.0,125.1
+The Founder,2016,"
+Biography, Drama            ",7.2,"
+    Director:
+John Lee Hancock
+| 
+    Stars:
+Michael Keaton, 
+Nick Offerman, 
+John Carroll Lynch, 
+Linda Cardellini
+","134,759",115.0,12.79
+Mononoke-hime,1997,"
+Animation, Action, Adventure            ",8.4,"
+    Director:
+Hayao Miyazaki
+| 
+    Stars:
+Yôji Matsuda, 
+Yuriko Ishida, 
+Yûko Tanaka, 
+Billy Crudup
+","359,473",134.0,2.38
+101 Dalmatians,1996,"
+Adventure, Comedy, Crime            ",5.7,"
+    Director:
+Stephen Herek
+| 
+    Stars:
+Glenn Close, 
+Jeff Daniels, 
+Joely Richardson, 
+Joan Plowright
+","106,580",103.0,136.19
+Rampage,2018,"
+Action, Adventure, Sci-Fi            ",6.1,"
+    Director:
+Brad Peyton
+| 
+    Stars:
+Dwayne Johnson, 
+Naomie Harris, 
+Malin Akerman, 
+Jeffrey Dean Morgan
+","151,688",107.0,101.03
+The Croods,2013,"
+Animation, Adventure, Comedy            ",7.2,"
+    Directors:
+Kirk DeMicco, 
+Chris Sanders
+| 
+    Stars:
+Nicolas Cage, 
+Ryan Reynolds, 
+Emma Stone, 
+Catherine Keener
+","200,206",98.0,187.17
+The Firm,1993,"
+Drama, Mystery, Thriller            ",6.8,"
+    Director:
+Sydney Pollack
+| 
+    Stars:
+Tom Cruise, 
+Jeanne Tripplehorn, 
+Gene Hackman, 
+Hal Holbrook
+","124,972",154.0,158.35
+The Clovehitch Killer,2018,"
+Crime, Drama, Mystery            ",6.6,"
+    Director:
+Duncan Skiles
+| 
+    Stars:
+Dylan McDermott, 
+Charlie Plummer, 
+Samantha Mathis, 
+Madisen Beaty
+","21,572",109.0,0.01
+Death Wish,2018,"
+Action, Crime, Drama            ",6.3,"
+    Director:
+Eli Roth
+| 
+    Stars:
+Bruce Willis, 
+Vincent D'Onofrio, 
+Elisabeth Shue, 
+Camila Morrone
+","68,094",107.0,34.02
+The Blues Brothers,1980,"
+Action, Adventure, Comedy            ",7.9,"
+    Director:
+John Landis
+| 
+    Stars:
+John Belushi, 
+Dan Aykroyd, 
+Cab Calloway, 
+John Candy
+","188,459",133.0,57.23
+Unknown,2011,"
+Action, Mystery, Thriller            ",6.8,"
+    Director:
+Jaume Collet-Serra
+| 
+    Stars:
+Liam Neeson, 
+Diane Kruger, 
+January Jones, 
+Aidan Quinn
+","253,999",113.0,63.69
+Hunt for the Wilderpeople,2016,"
+Adventure, Comedy, Drama            ",7.9,"
+    Director:
+Taika Waititi
+| 
+    Stars:
+Sam Neill, 
+Julian Dennison, 
+Rima Te Wiata, 
+Rachel House
+","118,166",101.0,5.2
+Monty Python and the Holy Grail,1975,"
+Adventure, Comedy, Fantasy            ",8.2,"
+    Directors:
+Terry Gilliam, 
+Terry Jones
+| 
+    Stars:
+Graham Chapman, 
+John Cleese, 
+Eric Idle, 
+Terry Gilliam
+","513,289",91.0,1.23
+The Best of Enemies,2019,"
+Biography, Drama, History            ",7.2,"
+    Director:
+Robin Bissell
+| 
+    Stars:
+Taraji P. Henson, 
+Sam Rockwell, 
+Babou Ceesay, 
+Anne Heche
+","13,196",133.0,10.21
+Atomic Blonde,2017,"
+Action, Thriller            ",6.7,"
+    Director:
+David Leitch
+| 
+    Stars:
+Charlize Theron, 
+James McAvoy, 
+John Goodman, 
+Eddie Marsan
+","182,505",115.0,51.69
+Rango,2011,"
+Animation, Adventure, Comedy            ",7.2,"
+    Director:
+Gore Verbinski
+| 
+    Stars:
+Johnny Depp, 
+Isla Fisher, 
+Timothy Olyphant, 
+Abigail Breslin
+","245,778",107.0,123.48
+The Lucky One,2012,"
+Drama, Mystery, Romance            ",6.5,"
+    Director:
+Scott Hicks
+| 
+    Stars:
+Zac Efron, 
+Taylor Schilling, 
+Blythe Danner, 
+Riley Thomas Stewart
+","103,765",101.0,60.46
+Spy Kids,2001,"
+Action, Adventure, Comedy            ",5.5,"
+    Director:
+Robert Rodriguez
+| 
+    Stars:
+Alexa PenaVega, 
+Daryl Sabara, 
+Antonio Banderas, 
+Carla Gugino
+","111,413",88.0,112.72
+White House Down,2013,"
+Action, Drama, Thriller            ",6.3,"
+    Director:
+Roland Emmerich
+| 
+    Stars:
+Channing Tatum, 
+Jamie Foxx, 
+Maggie Gyllenhaal, 
+Jason Clarke
+","211,395",131.0,73.1
+The Human Centipede (First Sequence),2009,"
+Horror            ",4.4,"
+    Director:
+Tom Six
+| 
+    Stars:
+Dieter Laser, 
+Ashley C. Williams, 
+Ashlynn Yennie, 
+Akihiro Kitamura
+","75,214",92.0,0.18
+Cars 3,2017,"
+Animation, Adventure, Comedy            ",6.7,"
+    Director:
+Brian Fee
+| 
+    Stars:
+Owen Wilson, 
+Cristela Alonzo, 
+Chris Cooper, 
+Nathan Fillion
+","83,135",102.0,152.9
+Southpaw,2015,"
+Action, Crime, Drama            ",7.4,"
+    Director:
+Antoine Fuqua
+| 
+    Stars:
+Jake Gyllenhaal, 
+Rachel McAdams, 
+Oona Laurence, 
+Forest Whitaker
+","223,775",124.0,52.42
+The A-Team,2010,"
+Action, Adventure, Thriller            ",6.7,"
+    Director:
+Joe Carnahan
+| 
+    Stars:
+Liam Neeson, 
+Bradley Cooper, 
+Sharlto Copley, 
+Jessica Biel
+","250,321",117.0,77.22
+This Means War,2012,"
+Action, Comedy, Romance            ",6.3,"
+    Director:
+McG
+| 
+    Stars:
+Reese Witherspoon, 
+Chris Pine, 
+Tom Hardy, 
+Til Schweiger
+","179,783",103.0,54.76
+Shaft,2019,"
+Action, Comedy, Crime            ",6.4,"
+    Director:
+Tim Story
+| 
+    Stars:
+Samuel L. Jackson, 
+Jessie T. Usher, 
+Richard Roundtree, 
+Regina Hall
+","48,354",111.0,21.36
+Lawrence of Arabia,1962,"
+Adventure, Biography, Drama            ",8.3,"
+    Director:
+David Lean
+| 
+    Stars:
+Peter O'Toole, 
+Alec Guinness, 
+Anthony Quinn, 
+Jack Hawkins
+","276,605",228.0,44.82
+Mars Attacks!,1996,"
+Comedy, Sci-Fi            ",6.3,"
+    Director:
+Tim Burton
+| 
+    Stars:
+Jack Nicholson, 
+Pierce Brosnan, 
+Sarah Jessica Parker, 
+Annette Bening
+","215,049",106.0,37.77
+Beauty and the Beast,1991,"
+Animation, Family, Fantasy            ",8.0,"
+    Directors:
+Gary Trousdale, 
+Kirk Wise
+| 
+    Stars:
+Paige O'Hara, 
+Robby Benson, 
+Jesse Corti, 
+Rex Everhart
+","425,384",84.0,218.97
+Finding Dory,2016,"
+Animation, Adventure, Comedy            ",7.3,"
+    Directors:
+Andrew Stanton, 
+Angus MacLane
+| 
+    Stars:
+Ellen DeGeneres, 
+Albert Brooks, 
+Ed O'Neill, 
+Kaitlin Olson
+","250,953",97.0,486.3
+Public Enemies,2009,"
+Biography, Crime, Drama            ",7.0,"
+    Director:
+Michael Mann
+| 
+    Stars:
+Christian Bale, 
+Johnny Depp, 
+Christian Stolte, 
+Jason Clarke
+","288,097",140.0,97.1
+127 Hours,2010,"
+Biography, Drama            ",7.5,"
+    Director:
+Danny Boyle
+| 
+    Stars:
+James Franco, 
+Amber Tamblyn, 
+Kate Mara, 
+Sean Bott
+","357,144",94.0,18.34
+Jurassic Park III,2001,"
+Action, Adventure, Sci-Fi            ",5.9,"
+    Director:
+Joe Johnston
+| 
+    Stars:
+Sam Neill, 
+William H. Macy, 
+Téa Leoni, 
+Alessandro Nivola
+","302,292",92.0,181.17
+Revenge,2017,"
+Action, Horror, Thriller            ",6.4,"
+    Director:
+Coralie Fargeat
+| 
+    Stars:
+Matilda Anna Ingrid Lutz, 
+Kevin Janssens, 
+Vincent Colombe, 
+Guillaume Bouchède
+","39,034",108.0,0.1
+Total Recall,2012,"
+Action, Adventure, Sci-Fi            ",6.2,"
+    Director:
+Len Wiseman
+| 
+    Stars:
+Colin Farrell, 
+Bokeem Woodbine, 
+Bryan Cranston, 
+Kate Beckinsale
+","244,708",118.0,58.88
+Footloose,1984,"
+Drama, Music, Romance            ",6.6,"
+    Director:
+Herbert Ross
+| 
+    Stars:
+Kevin Bacon, 
+Lori Singer, 
+John Lithgow, 
+Dianne Wiest
+","73,935",107.0,80.04
+Brooklyn,2015,"
+Drama, Romance            ",7.5,"
+    Director:
+John Crowley
+| 
+    Stars:
+Saoirse Ronan, 
+Emory Cohen, 
+Domhnall Gleeson, 
+Jim Broadbent
+","135,157",117.0,38.32
+Child's Play,2019,"
+Drama, Horror, Sci-Fi            ",5.7,"
+    Director:
+Lars Klevberg
+| 
+    Stars:
+Tim Matheson, 
+Ben Daon, 
+Zahra Anderson, 
+Serge Jaswal
+","46,932",90.0,29.21
+The Danish Girl,2015,"
+Biography, Drama, Romance            ",7.1,"
+    Director:
+Tom Hooper
+| 
+    Stars:
+Eddie Redmayne, 
+Alicia Vikander, 
+Amber Heard, 
+Ben Whishaw
+","171,124",119.0,11.11
+The Bad Batch,2016,"
+Action, Horror, Mystery            ",5.3,"
+    Director:
+Ana Lily Amirpour
+| 
+    Stars:
+Suki Waterhouse, 
+Jason Momoa, 
+Jayda Fink, 
+Keanu Reeves
+","28,243",118.0,0.18
+Now You See Me 2,2016,"
+Action, Adventure, Comedy            ",6.5,"
+    Director:
+Jon M. Chu
+| 
+    Stars:
+Jesse Eisenberg, 
+Mark Ruffalo, 
+Woody Harrelson, 
+Dave Franco
+","261,079",129.0,65.08
+The Tourist,2010,"
+Action, Thriller            ",6.0,"
+    Director:
+Florian Henckel von Donnersmarck
+| 
+    Stars:
+Johnny Depp, 
+Angelina Jolie, 
+Paul Bettany, 
+Timothy Dalton
+","230,565",103.0,67.63
+The Emperor's New Groove,2000,"
+Animation, Adventure, Comedy            ",7.4,"
+    Director:
+Mark Dindal
+| 
+    Stars:
+David Spade, 
+John Goodman, 
+Eartha Kitt, 
+Patrick Warburton
+","187,523",78.0,89.3
+Deepwater Horizon,2016,"
+Action, Drama, History            ",7.1,"
+    Director:
+Peter Berg
+| 
+    Stars:
+Mark Wahlberg, 
+Kurt Russell, 
+Douglas M. Griffin, 
+James DuMont
+","158,184",107.0,61.43
+The Dictator,2012,"
+Comedy            ",6.4,"
+    Director:
+Larry Charles
+| 
+    Stars:
+Sacha Baron Cohen, 
+Anna Faris, 
+John C. Reilly, 
+Ben Kingsley
+","287,003",83.0,59.65
+Green Room,2015,"
+Horror, Thriller            ",7.0,"
+    Director:
+Jeremy Saulnier
+| 
+    Stars:
+Anton Yelchin, 
+Imogen Poots, 
+Alia Shawkat, 
+Patrick Stewart
+","112,522",95.0,3.22
+The Post,2017,"
+Drama            ",7.2,"
+    Director:
+Steven Spielberg
+| 
+    Stars:
+Meryl Streep, 
+Tom Hanks, 
+Sarah Paulson, 
+Bob Odenkirk
+","141,624",116.0,81.9
+Spartacus,1960,"
+Adventure, Biography, Drama            ",7.9,"
+    Director:
+Stanley Kubrick
+| 
+    Stars:
+Kirk Douglas, 
+Laurence Olivier, 
+Jean Simmons, 
+Charles Laughton
+","128,685",197.0,30.0
+Tonari no Totoro,1988,"
+Animation, Family, Fantasy            ",8.2,"
+    Director:
+Hayao Miyazaki
+| 
+    Stars:
+Hitoshi Takagi, 
+Noriko Hidaka, 
+Chika Sakamoto, 
+Shigesato Itoi
+","305,790",86.0,1.11
+The Quick and the Dead,1995,"
+Action, Romance, Thriller            ",6.4,"
+    Director:
+Sam Raimi
+| 
+    Stars:
+Sharon Stone, 
+Gene Hackman, 
+Russell Crowe, 
+Leonardo DiCaprio
+","88,608",107.0,18.64
+Knocked Up,2007,"
+Comedy, Romance            ",6.9,"
+    Director:
+Judd Apatow
+| 
+    Stars:
+Seth Rogen, 
+Katherine Heigl, 
+Paul Rudd, 
+Leslie Mann
+","356,979",129.0,148.73
+Fatal Attraction,1987,"
+Drama, Thriller            ",6.9,"
+    Director:
+Adrian Lyne
+| 
+    Stars:
+Michael Douglas, 
+Glenn Close, 
+Anne Archer, 
+Ellen Latzen
+","79,936",119.0,156.65
+Dreamgirls,2006,"
+Drama, Music, Musical            ",6.5,"
+    Director:
+Bill Condon
+| 
+    Stars:
+Beyoncé, 
+Jamie Foxx, 
+Eddie Murphy, 
+Danny Glover
+","70,985",130.0,103.37
+Smokin' Aces,2006,"
+Action, Comedy, Crime            ",6.7,"
+    Director:
+Joe Carnahan
+| 
+    Stars:
+Jeremy Piven, 
+Ryan Reynolds, 
+Ray Liotta, 
+Joseph Ruskin
+","140,790",109.0,35.66
+Serenity,2019,"
+Drama, Mystery, Thriller            ",5.4,"
+    Director:
+Steven Knight
+| 
+    Stars:
+Matthew McConaughey, 
+Anne Hathaway, 
+Diane Lane, 
+Jason Clarke
+","38,364",106.0,8.55
+Hotel Transylvania 3: Summer Vacation,2018,"
+Animation, Adventure, Comedy            ",6.3,"
+    Director:
+Genndy Tartakovsky
+| 
+    Stars:
+Adam Sandler, 
+Andy Samberg, 
+Selena Gomez, 
+Kevin James
+","62,255",97.0,167.51
+Triple 9,2016,"
+Action, Crime, Thriller            ",6.3,"
+    Director:
+John Hillcoat
+| 
+    Stars:
+Casey Affleck, 
+Chiwetel Ejiofor, 
+Anthony Mackie, 
+Aaron Paul
+","69,234",115.0,12.63
+Easy Rider,1969,"
+Adventure, Drama            ",7.3,"
+    Director:
+Dennis Hopper
+| 
+    Stars:
+Peter Fonda, 
+Dennis Hopper, 
+Jack Nicholson, 
+Antonio Mendoza
+","104,511",95.0,41.73
+A Walk to Remember,2002,"
+Drama, Romance            ",7.3,"
+    Director:
+Adam Shankman
+| 
+    Stars:
+Mandy Moore, 
+Shane West, 
+Peter Coyote, 
+Daryl Hannah
+","203,383",101.0,41.23
+Lilo & Stitch,2002,"
+Animation, Adventure, Comedy            ",7.3,"
+    Directors:
+Dean DeBlois, 
+Chris Sanders
+| 
+    Stars:
+Daveigh Chase, 
+Chris Sanders, 
+Tia Carrere, 
+David Ogden Stiers
+","175,052",85.0,145.79
+Operation Finale,2018,"
+Biography, Drama, History            ",6.6,"
+    Director:
+Chris Weitz
+| 
+    Stars:
+Oscar Isaac, 
+Ben Kingsley, 
+Mélanie Laurent, 
+Lior Raz
+","36,593",122.0,17.61
+Locke,2013,"
+Drama            ",7.1,"
+    Director:
+Steven Knight
+| 
+    Stars:
+Tom Hardy, 
+Olivia Colman, 
+Ruth Wilson, 
+Andrew Scott
+","140,930",85.0,1.36
+A Cinderella Story,2004,"
+Comedy, Family, Romance            ",5.9,"
+    Director:
+Mark Rosman
+| 
+    Stars:
+Hilary Duff, 
+Chad Michael Murray, 
+Jennifer Coolidge, 
+Dan Byrd
+","82,876",95.0,51.44
+Escape Plan,2013,"
+Action, Thriller            ",6.7,"
+    Director:
+Mikael Håfström
+| 
+    Stars:
+Sylvester Stallone, 
+Arnold Schwarzenegger, 
+50 Cent, 
+Vincent D'Onofrio
+","233,030",115.0,25.13
+Life of Brian,1979,"
+Comedy            ",8.1,"
+    Director:
+Terry Jones
+| 
+    Stars:
+Graham Chapman, 
+John Cleese, 
+Michael Palin, 
+Terry Gilliam
+","378,134",94.0,20.05
+Colombiana,2011,"
+Action, Drama, Thriller            ",6.4,"
+    Director:
+Olivier Megaton
+| 
+    Stars:
+Zoe Saldana, 
+Michael Vartan, 
+Callum Blue, 
+Jordi Mollà
+","97,146",108.0,36.67
+Resident Evil: The Final Chapter,2016,"
+Action, Horror, Sci-Fi            ",5.5,"
+    Director:
+Paul W.S. Anderson
+| 
+    Stars:
+Milla Jovovich, 
+Iain Glen, 
+Ali Larter, 
+Shawn Roberts
+","87,437",107.0,26.83
+Dirty Grandpa,2016,"
+Comedy            ",5.9,"
+    Director:
+Dan Mazer
+| 
+    Stars:
+Robert De Niro, 
+Zac Efron, 
+Zoey Deutch, 
+Aubrey Plaza
+","117,026",102.0,35.59
+Late Night,2019,"
+Comedy, Drama            ",6.5,"
+    Director:
+Nisha Ganatra
+| 
+    Stars:
+Emma Thompson, 
+Mindy Kaling, 
+John Lithgow, 
+Hugh Dancy
+","33,065",102.0,15.5
+The Duff,2015,"
+Comedy, Romance            ",6.5,"
+    Director:
+Ari Sandel
+| 
+    Stars:
+Mae Whitman, 
+Bella Thorne, 
+Robbie Amell, 
+Allison Janney
+","86,929",101.0,34.02
+You're Next,2011,"
+Horror, Thriller            ",6.6,"
+    Director:
+Adam Wingard
+| 
+    Stars:
+Sharni Vinson, 
+Joe Swanberg, 
+AJ Bowen, 
+Nicholas Tucci
+","92,232",95.0,18.47
+The Lincoln Lawyer,2011,"
+Crime, Drama, Mystery            ",7.3,"
+    Director:
+Brad Furman
+| 
+    Stars:
+Matthew McConaughey, 
+Marisa Tomei, 
+Ryan Phillippe, 
+William H. Macy
+","222,054",118.0,58.01
+Pixels,2015,"
+Action, Comedy, Fantasy            ",5.5,"
+    Director:
+Chris Columbus
+| 
+    Stars:
+Adam Sandler, 
+Kevin James, 
+Michelle Monaghan, 
+Peter Dinklage
+","135,509",105.0,78.75
+The Ten Commandments,1956,"
+Adventure, Drama            ",7.9,"
+    Director:
+Cecil B. DeMille
+| 
+    Stars:
+Charlton Heston, 
+Yul Brynner, 
+Anne Baxter, 
+Edward G. Robinson
+","66,532",220.0,93.74
+Live by Night,2016,"
+Action, Crime, Drama            ",6.4,"
+    Director:
+Ben Affleck
+| 
+    Stars:
+Ben Affleck, 
+Elle Fanning, 
+Brendan Gleeson, 
+Chris Messina
+","54,010",129.0,10.38
+Sabotage,2014,"
+Action, Crime, Drama            ",5.7,"
+    Director:
+David Ayer
+| 
+    Stars:
+Arnold Schwarzenegger, 
+Sam Worthington, 
+Terrence Howard, 
+Olivia Williams
+","61,545",109.0,10.51
+Despicable Me 2,2013,"
+Animation, Adventure, Comedy            ",7.3,"
+    Directors:
+Pierre Coffin, 
+Chris Renaud
+| 
+    Stars:
+Steve Carell, 
+Kristen Wiig, 
+Benjamin Bratt, 
+Miranda Cosgrove
+","377,936",98.0,368.06
+Oz the Great and Powerful,2013,"
+Adventure, Family, Fantasy            ",6.3,"
+    Director:
+Sam Raimi
+| 
+    Stars:
+James Franco, 
+Michelle Williams, 
+Rachel Weisz, 
+Mila Kunis
+","201,707",130.0,234.91
+CHIPS,2017,"
+Action, Comedy, Crime            ",6.0,"
+    Director:
+Dax Shepard
+| 
+    Stars:
+Michael Peña, 
+Dax Shepard, 
+Vincent D'Onofrio, 
+Rosa Salazar
+","44,487",100.0,18.6
+Taken 3,2014,"
+Action, Crime, Thriller            ",6.0,"
+    Director:
+Olivier Megaton
+| 
+    Stars:
+Liam Neeson, 
+Forest Whitaker, 
+Maggie Grace, 
+Famke Janssen
+","183,595",108.0,89.26
+Out of the Furnace,2013,"
+Action, Crime, Drama            ",6.8,"
+    Director:
+Scott Cooper
+| 
+    Stars:
+Christian Bale, 
+Casey Affleck, 
+Zoe Saldana, 
+Woody Harrelson
+","110,076",116.0,11.33
+Noah,2014,"
+Action, Adventure, Drama            ",5.7,"
+    Director:
+Darren Aronofsky
+| 
+    Stars:
+Russell Crowe, 
+Jennifer Connelly, 
+Anthony Hopkins, 
+Emma Watson
+","247,033",138.0,101.2
+Takers,2010,"
+Action, Crime, Thriller            ",6.2,"
+    Director:
+John Luessenhop
+| 
+    Stars:
+Chris Brown, 
+Hayden Christensen, 
+Matt Dillon, 
+Michael Ealy
+","59,882",107.0,57.74
+Lord of War,2005,"
+Action, Crime, Drama            ",7.6,"
+    Director:
+Andrew Niccol
+| 
+    Stars:
+Nicolas Cage, 
+Ethan Hawke, 
+Jared Leto, 
+Bridget Moynahan
+","300,344",122.0,24.15
+Blue Jasmine,2013,"
+Comedy, Drama            ",7.3,"
+    Director:
+Woody Allen
+| 
+    Stars:
+Cate Blanchett, 
+Alec Baldwin, 
+Peter Sarsgaard, 
+Sally Hawkins
+","195,580",98.0,33.41
+The Expendables 2,2012,"
+Action, Adventure, Thriller            ",6.6,"
+    Director:
+Simon West
+| 
+    Stars:
+Sylvester Stallone, 
+Liam Hemsworth, 
+Randy Couture, 
+Jean-Claude Van Damme
+","296,948",103.0,85.02
+Conan the Barbarian,2011,"
+Action, Adventure, Fantasy            ",5.2,"
+    Director:
+Marcus Nispel
+| 
+    Stars:
+Jason Momoa, 
+Ron Perlman, 
+Rose McGowan, 
+Stephen Lang
+","96,638",113.0,21.3
+Battle of Britain,1969,"
+Action, Drama, History            ",7.0,"
+    Director:
+Guy Hamilton
+| 
+    Stars:
+Michael Caine, 
+Trevor Howard, 
+Harry Andrews, 
+Curd Jürgens
+","21,366",132.0,4.36
+Begin Again,2013,"
+Comedy, Drama, Music            ",7.4,"
+    Director:
+John Carney
+| 
+    Stars:
+Keira Knightley, 
+Mark Ruffalo, 
+Adam Levine, 
+Hailee Steinfeld
+","147,794",104.0,16.17
+The Invitation,2015,"
+Drama, Mystery, Thriller            ",6.6,"
+    Director:
+Karyn Kusama
+| 
+    Stars:
+Logan Marshall-Green, 
+Emayatzy Corinealdi, 
+Michiel Huisman, 
+Tammy Blanchard
+","100,313",100.0,0.23
+Flashdance,1983,"
+Drama, Music, Romance            ",6.2,"
+    Director:
+Adrian Lyne
+| 
+    Stars:
+Jennifer Beals, 
+Michael Nouri, 
+Lilia Skala, 
+Sunny Johnson
+","49,826",95.0,94.9
+Hummingbird,2013,"
+Action, Crime, Drama            ",6.2,"
+    Director:
+Steven Knight
+| 
+    Stars:
+Jason Statham, 
+Agata Buzek, 
+Vicky McClure, 
+Benedict Wong
+","68,546",100.0,0.03
+Paddington 2,2017,"
+Animation, Adventure, Comedy            ",7.8,"
+    Director:
+Paul King
+| 
+    Stars:
+Ben Whishaw, 
+Hugh Grant, 
+Hugh Bonneville, 
+Sally Hawkins
+","66,462",103.0,40.44
+Gake no ue no Ponyo,2008,"
+Animation, Adventure, Comedy            ",7.7,"
+    Director:
+Hayao Miyazaki
+| 
+    Stars:
+Cate Blanchett, 
+Matt Damon, 
+Liam Neeson, 
+Tomoko Yamaguchi
+","131,204",101.0,15.09
+Mechanic: Resurrection,2016,"
+Action, Adventure, Crime            ",5.7,"
+    Director:
+Dennis Gansel
+| 
+    Stars:
+Jason Statham, 
+Jessica Alba, 
+Tommy Lee Jones, 
+Michelle Yeoh
+","79,668",98.0,21.22
+Scary Movie 5,2013,"
+Comedy            ",3.5,"
+    Directors:
+Malcolm D. Lee, 
+David Zucker
+| 
+    Stars:
+Simon Rex, 
+Ashley Tisdale, 
+Charlie Sheen, 
+Lindsay Lohan
+","67,762",88.0,32.02
+Kill Me Three Times,2014,"
+Action, Comedy, Crime            ",5.9,"
+    Director:
+Kriv Stenders
+| 
+    Stars:
+Simon Pegg, 
+Teresa Palmer, 
+Alice Braga, 
+Luke Hemsworth
+","22,359",90.0,0.02
+Killers,2010,"
+Action, Comedy, Romance            ",5.5,"
+    Director:
+Robert Luketic
+| 
+    Stars:
+Katherine Heigl, 
+Ashton Kutcher, 
+Tom Selleck, 
+Catherine O'Hara
+","89,080",100.0,47.06
+The Lorax,2012,"
+Animation, Adventure, Comedy            ",6.4,"
+    Directors:
+Chris Renaud, 
+Kyle Balda
+| 
+    Stars:
+Zac Efron, 
+Taylor Swift, 
+Danny DeVito, 
+Ed Helms
+","103,009",86.0,214.03
+Alice Through the Looking Glass,2016,"
+Adventure, Family, Fantasy            ",6.2,"
+    Director:
+James Bobin
+| 
+    Stars:
+Mia Wasikowska, 
+Johnny Depp, 
+Helena Bonham Carter, 
+Anne Hathaway
+","98,302",113.0,77.04
+Macbeth,2015,"
+Drama, History, War            ",6.6,"
+    Director:
+Justin Kurzel
+| 
+    Stars:
+Michael Fassbender, 
+Marion Cotillard, 
+Jack Madigan, 
+Frank Madigan
+","54,067",113.0,1.11
+The Infiltrator,2016,"
+Biography, Crime, Drama            ",7.0,"
+    Director:
+Brad Furman
+| 
+    Stars:
+Bryan Cranston, 
+John Leguizamo, 
+Diane Kruger, 
+Amy Ryan
+","70,858",127.0,15.43
+Doom,2005,"
+Action, Horror, Sci-Fi            ",5.2,"
+    Director:
+Andrzej Bartkowiak
+| 
+    Stars:
+Karl Urban, 
+Rosamund Pike, 
+Dwayne Johnson, 
+Deobia Oparei
+","110,028",105.0,28.21
+Kaze no tani no Naushika,1984,"
+Animation, Adventure, Fantasy            ",8.1,"
+    Director:
+Hayao Miyazaki
+| 
+    Stars:
+Sumi Shimamoto, 
+Mahito Tsujimura, 
+Hisako Kyôda, 
+Gorô Naya
+","157,520",117.0,0.5
+The Last Stand,2013,"
+Action, Thriller            ",6.3,"
+    Director:
+Jee-woon Kim
+| 
+    Stars:
+Arnold Schwarzenegger, 
+Forest Whitaker, 
+Johnny Knoxville, 
+Rodrigo Santoro
+","135,448",107.0,12.05
+De rouille et d'os,2012,"
+Drama, Romance            ",7.5,"
+    Director:
+Jacques Audiard
+| 
+    Stars:
+Marion Cotillard, 
+Matthias Schoenaerts, 
+Armand Verdure, 
+Céline Sallette
+","65,455",120.0,2.06
+Young Guns II,1990,"
+Action, Western            ",6.5,"
+    Director:
+Geoff Murphy
+| 
+    Stars:
+Emilio Estevez, 
+Kiefer Sutherland, 
+Lou Diamond Phillips, 
+Christian Slater
+","33,616",104.0,44.14
+Pan,2015,"
+Adventure, Comedy, Family            ",5.7,"
+    Director:
+Joe Wright
+| 
+    Stars:
+Levi Miller, 
+Hugh Jackman, 
+Garrett Hedlund, 
+Rooney Mara
+","61,772",111.0,35.09
+The Iceman,2012,"
+Biography, Crime, Drama            ",6.8,"
+    Director:
+Ariel Vromen
+| 
+    Stars:
+Michael Shannon, 
+Chris Evans, 
+James Franco, 
+Winona Ryder
+","72,326",106.0,1.94
+Hannibal Rising,2007,"
+Action, Adventure, Crime            ",6.2,"
+    Director:
+Peter Webber
+| 
+    Stars:
+Gaspard Ulliel, 
+Rhys Ifans, 
+Gong Li, 
+Aaran Thomas
+","106,197",121.0,27.67
+The Day the Earth Stood Still,2008,"
+Drama, Sci-Fi, Thriller            ",5.5,"
+    Director:
+Scott Derrickson
+| 
+    Stars:
+Keanu Reeves, 
+Jennifer Connelly, 
+Kathy Bates, 
+Jaden Smith
+","165,900",104.0,79.37
+The Adventures of Sharkboy and Lavagirl 3-D,2005,"
+Action, Adventure, Comedy            ",3.7,"
+    Director:
+Robert Rodriguez
+| 
+    Stars:
+Cayden Boyd, 
+George Lopez, 
+Kristin Davis, 
+David Arquette
+","34,853",93.0,39.18
+Taken 2,2012,"
+Action, Crime, Thriller            ",6.3,"
+    Director:
+Olivier Megaton
+| 
+    Stars:
+Liam Neeson, 
+Famke Janssen, 
+Maggie Grace, 
+Leland Orser
+","295,140",92.0,139.85
+The Ugly Truth,2009,"
+Comedy, Romance            ",6.4,"
+    Director:
+Robert Luketic
+| 
+    Stars:
+Katherine Heigl, 
+Gerard Butler, 
+Bree Turner, 
+Eric Winter
+","209,052",96.0,88.92
+Sweet Virginia,2017,"
+Action, Drama, Thriller            ",6.2,"
+    Director:
+Jamie M. Dagg
+| 
+    Stars:
+Jon Bernthal, 
+Christopher Abbott, 
+Imogen Poots, 
+Rosemarie DeWitt
+","9,324",93.0,0.01
+Deliver Us from Evil,2014,"
+Action, Biography, Crime            ",6.2,"
+    Director:
+Scott Derrickson
+| 
+    Stars:
+Eric Bana, 
+Edgar Ramírez, 
+Olivia Munn, 
+Chris Coy
+","73,461",118.0,30.58
+The Human Centipede II (Full Sequence),2011,"
+Horror            ",3.8,"
+    Director:
+Tom Six
+| 
+    Stars:
+Laurence R. Harvey, 
+Ashlynn Yennie, 
+Maddi Black, 
+Kandace Caine
+","36,912",91.0,0.12
+Dead Man Down,2013,"
+Action, Crime, Drama            ",6.5,"
+    Director:
+Niels Arden Oplev
+| 
+    Stars:
+Colin Farrell, 
+Noomi Rapace, 
+Dominic Cooper, 
+Terrence Howard
+","65,672",118.0,10.88
+Step Up,2006,"
+Crime, Drama, Music            ",6.5,"
+    Director:
+Anne Fletcher
+| 
+    Stars:
+Channing Tatum, 
+Jenna Dewan, 
+Damaine Radcliff, 
+De'Shawn Washington
+","113,232",104.0,65.33
+Child 44,2015,"
+Crime, Drama, History            ",6.5,"
+    Director:
+Daniel Espinosa
+| 
+    Stars:
+Tom Hardy, 
+Gary Oldman, 
+Noomi Rapace, 
+Joel Kinnaman
+","67,925",137.0,1.21
+Berlin Syndrome,2017,"
+Drama, Horror, Mystery            ",6.3,"
+    Director:
+Cate Shortland
+| 
+    Stars:
+Teresa Palmer, 
+Max Riemelt, 
+Matthias Habich, 
+Emma Bading
+","23,476",116.0,0.03
+Office Christmas Party,2016,"
+Comedy            ",5.9,"
+    Directors:
+Josh Gordon, 
+Will Speck
+| 
+    Stars:
+Jason Bateman, 
+Olivia Munn, 
+T.J. Miller, 
+Jennifer Aniston
+","72,433",105.0,54.77
+White Girl,2016,"
+Crime, Drama            ",5.7,"
+    Director:
+Elizabeth Wood
+| 
+    Stars:
+Morgan Saylor, 
+Brian Marc, 
+Justin Bartha, 
+Adrian Martinez
+","10,127",88.0,0.2
+Mercury Rising,1998,"
+Action, Crime, Drama            ",6.1,"
+    Director:
+Harold Becker
+| 
+    Stars:
+Bruce Willis, 
+Miko Hughes, 
+Alec Baldwin, 
+Chi McBride
+","70,935",111.0,32.94
+Suburbicon,2017,"
+Comedy, Crime, Drama            ",5.7,"
+    Director:
+George Clooney
+| 
+    Stars:
+Matt Damon, 
+Julianne Moore, 
+Oscar Isaac, 
+Noah Jupe
+","41,867",105.0,5.78
+Better Watch Out,2016,"
+Comedy, Horror, Thriller            ",6.5,"
+    Director:
+Chris Peckover
+| 
+    Stars:
+Olivia DeJonge, 
+Levi Miller, 
+Ed Oxenbould, 
+Aleks Mikic
+","33,703",89.0,0.02
+Safe,2012,"
+Action, Crime, Thriller            ",6.5,"
+    Director:
+Boaz Yakin
+| 
+    Stars:
+Jason Statham, 
+Catherine Chan, 
+Chris Sarandon, 
+Robert John Burke
+","106,164",94.0,17.14
+Killerman,2019,"
+Action, Crime, Thriller            ",5.4,"
+    Director:
+Malik Bader
+| 
+    Stars:
+Liam Hemsworth, 
+Emory Cohen, 
+Diane Guerrero, 
+Zlatko Buric
+","4,495",112.0,0.28
+The Devil's Own,1997,"
+Action, Crime, Drama            ",6.2,"
+    Director:
+Alan J. Pakula
+| 
+    Stars:
+Harrison Ford, 
+Brad Pitt, 
+Margaret Colin, 
+Rubén Blades
+","62,161",111.0,42.87
+Kaze tachinu,2013,"
+Animation, Biography, Drama            ",7.8,"
+    Director:
+Hayao Miyazaki
+| 
+    Stars:
+Hideaki Anno, 
+Hidetoshi Nishijima, 
+Miori Takimoto, 
+Masahiko Nishimura
+","77,732",126.0,5.21
+Super Dark Times,2017,"
+Crime, Drama, Horror            ",6.6,"
+    Director:
+Kevin Phillips
+| 
+    Stars:
+Owen Campbell, 
+Charlie Tahan, 
+Elizabeth Cappuccino, 
+Amy Hargreaves
+","20,965",103.0,0.03
+Zwartboek,2006,"
+Drama, Thriller, War            ",7.7,"
+    Director:
+Paul Verhoeven
+| 
+    Stars:
+Carice van Houten, 
+Sebastian Koch, 
+Thom Hoffman, 
+Halina Reijn
+","74,139",145.0,4.4
+"See No Evil, Hear No Evil",1989,"
+Comedy, Crime            ",6.9,"
+    Director:
+Arthur Hiller
+| 
+    Stars:
+Richard Pryor, 
+Gene Wilder, 
+Joan Severance, 
+Kevin Spacey
+","51,788",103.0,46.91
+Beasts of No Nation,2015,"
+Drama, War            ",7.7,"
+    Director:
+Cary Joji Fukunaga
+| 
+    Stars:
+Abraham Attah, 
+Emmanuel Affadzi, 
+Ricky Adelayitor, 
+Andrew Adote
+","76,530",137.0,0.08
+Isn't It Romantic,2019,"
+Comedy, Fantasy, Musical            ",5.9,"
+    Director:
+Todd Strauss-Schulson
+| 
+    Stars:
+Rebel Wilson, 
+Liam Hemsworth, 
+Adam Devine, 
+Priyanka Chopra Jonas
+","65,584",89.0,48.79
+The Ghost Writer,2010,"
+Crime, Drama, Mystery            ",7.2,"
+    Director:
+Roman Polanski
+| 
+    Stars:
+Ewan McGregor, 
+Pierce Brosnan, 
+Olivia Williams, 
+Jon Bernthal
+","159,090",128.0,15.54
+Valley of the Dolls,1967,"
+Drama, Music, Romance            ",6.0,"
+    Director:
+Mark Robson
+| 
+    Stars:
+Barbara Parkins, 
+Patty Duke, 
+Paul Burke, 
+Sharon Tate
+","7,900",123.0,44.43
+The Shack,2017,"
+Drama, Fantasy            ",6.3,"
+    Director:
+Stuart Hazeldine
+| 
+    Stars:
+Sam Worthington, 
+Octavia Spencer, 
+Tim McGraw, 
+Radha Mitchell
+","31,775",132.0,57.39
+Maggie,2015,"
+Drama, Horror, Sci-Fi            ",5.6,"
+    Director:
+Henry Hobson
+| 
+    Stars:
+Arnold Schwarzenegger, 
+Abigail Breslin, 
+Joely Richardson, 
+Laura Cayouette
+","42,895",95.0,0.19
+Broken City,2013,"
+Action, Crime, Drama            ",6.2,"
+    Director:
+Allen Hughes
+| 
+    Stars:
+Mark Wahlberg, 
+Russell Crowe, 
+Catherine Zeta-Jones, 
+Jeffrey Wright
+","77,749",109.0,19.7
+Step Up 2: The Streets,2008,"
+Drama, Music, Romance            ",6.2,"
+    Director:
+Jon M. Chu
+| 
+    Stars:
+Robert Hoffman, 
+Briana Evigan, 
+Cassie Ventura, 
+Adam Sevani
+","82,792",98.0,58.02
+Contraband,2012,"
+Action, Crime, Drama            ",6.4,"
+    Director:
+Baltasar Kormákur
+| 
+    Stars:
+Mark Wahlberg, 
+Giovanni Ribisi, 
+Kate Beckinsale, 
+Robert Wahlberg
+","119,261",109.0,66.53
+The Client,1994,"
+Crime, Drama, Mystery            ",6.7,"
+    Director:
+Joel Schumacher
+| 
+    Stars:
+Susan Sarandon, 
+Tommy Lee Jones, 
+Brad Renfro, 
+Mary-Louise Parker
+","62,748",119.0,92.12
+Mirror Mirror,2012,"
+Adventure, Comedy, Drama            ",5.6,"
+    Director:
+Tarsem Singh
+| 
+    Stars:
+Lily Collins, 
+Julia Roberts, 
+Armie Hammer, 
+Nathan Lane
+","85,615",106.0,64.94
+I Spit on Your Grave 2,2013,"
+Horror, Thriller            ",5.7,"
+    Director:
+Steven R. Monroe
+| 
+    Stars:
+Jemma Dallender, 
+Joe Absolom, 
+Yavor Baharov, 
+George Zlatarev
+","28,118",106.0,0.0
+The Great Gatsby,1974,"
+Drama, Romance            ",6.4,"
+    Director:
+Jack Clayton
+| 
+    Stars:
+Robert Redford, 
+Mia Farrow, 
+Bruce Dern, 
+Karen Black
+","24,087",144.0,6.74
+Thelma,2017,"
+Drama, Fantasy, Horror            ",7.0,"
+    Director:
+Joachim Trier
+| 
+    Stars:
+Eili Harboe, 
+Kaya Wilkins, 
+Henrik Rafaelsen, 
+Ellen Dorrit Petersen
+","28,282",116.0,0.15
+Step Up 3D,2010,"
+Drama, Music, Romance            ",6.2,"
+    Director:
+Jon M. Chu
+| 
+    Stars:
+Sharni Vinson, 
+Rick Malambri, 
+Adam Sevani, 
+Alyson Stoner
+","56,610",107.0,42.4
+Triple Threat,2019,"
+Action, Thriller            ",5.6,"
+    Director:
+Jesse V. Johnson
+| 
+    Stars:
+Tony Jaa, 
+Tiger Hu Chen, 
+Iko Uwais, 
+Scott Adkins
+","10,345",96.0,0.08
+Kari-gurashi no Arietti,2010,"
+Animation, Adventure, Family            ",7.6,"
+    Director:
+Hiromasa Yonebayashi
+| 
+    Stars:
+Amy Poehler, 
+Will Arnett, 
+Mirai Shida, 
+Ryûnosuke Kamiki
+","84,951",94.0,19.2
+Step Up Revolution,2012,"
+Drama, Music, Romance            ",6.4,"
+    Director:
+Scott Speer
+| 
+    Stars:
+Kathryn McCormick, 
+Ryan Guzman, 
+Cleopatra Coleman, 
+Misha Gabriel Hamilton
+","54,763",99.0,35.07
+Cloudy with a Chance of Meatballs 2,2013,"
+Animation, Adventure, Comedy            ",6.4,"
+    Directors:
+Cody Cameron, 
+Kris Pearn
+| 
+    Stars:
+Bill Hader, 
+Anna Faris, 
+Will Forte, 
+Neil Patrick Harris
+","94,660",95.0,119.79
+Brooklyn's Finest,2009,"
+Action, Crime, Drama            ",6.7,"
+    Director:
+Antoine Fuqua
+| 
+    Stars:
+Richard Gere, 
+Don Cheadle, 
+Ethan Hawke, 
+Wesley Snipes
+","61,994",132.0,27.15
+Mirrors,2008,"
+Horror, Mystery            ",6.1,"
+    Director:
+Alexandre Aja
+| 
+    Stars:
+Kiefer Sutherland, 
+Paula Patton, 
+Amy Smart, 
+Cameron Boyce
+","103,973",110.0,30.69
+Honeymoon,2014,"
+Drama, Fantasy, Horror            ",5.7,"
+    Director:
+Leigh Janiak
+| 
+    Stars:
+Rose Leslie, 
+Harry Treadaway, 
+Ben Huber, 
+Hanna Brown
+","24,861",87.0,0.01
+Touch of Evil,1958,"
+Crime, Drama, Film-Noir            ",8.0,"
+    Director:
+Orson Welles
+| 
+    Stars:
+Charlton Heston, 
+Orson Welles, 
+Janet Leigh, 
+Joseph Calleia
+","100,664",95.0,2.24
+True Story,2015,"
+Biography, Crime, Drama            ",6.3,"
+    Director:
+Rupert Goold
+| 
+    Stars:
+James Franco, 
+Jonah Hill, 
+Felicity Jones, 
+Maria Dizzia
+","65,679",99.0,4.72
+Planes,2013,"
+Animation, Adventure, Comedy            ",5.7,"
+    Director:
+Klay Hall
+| 
+    Stars:
+Carlos Alazraqui, 
+Dane Cook, 
+Stacy Keach, 
+Brad Garrett
+","43,335",91.0,90.29
+Omoide no Mânî,2014,"
+Animation, Drama, Family            ",7.7,"
+    Directors:
+James Simone, 
+Hiromasa Yonebayashi
+| 
+    Stars:
+Sara Takatsuki, 
+Kasumi Arimura, 
+Nanako Matsushima, 
+Susumu Terajima
+","35,523",103.0,0.77
+The One I Love,2014,"
+Comedy, Drama, Romance            ",7.1,"
+    Director:
+Charlie McDowell
+| 
+    Stars:
+Mark Duplass, 
+Elisabeth Moss, 
+Ted Danson, 
+Kiana Cason
+","37,373",91.0,0.51
+Jeepers Creepers 3,2017,"
+Horror            ",3.9,"
+    Director:
+Victor Salva
+| 
+    Stars:
+Stan Shaw, 
+Gabrielle Haugh, 
+Brandon Smith, 
+Meg Foster
+","19,260",100.0,2.24
+Geronimo: An American Legend,1993,"
+Drama, History, Western            ",6.5,"
+    Director:
+Walter Hill
+| 
+    Stars:
+Jason Patric, 
+Gene Hackman, 
+Robert Duvall, 
+Wes Studi
+","10,096",115.0,18.64
+The Immigrant,2013,"
+Drama, Romance            ",6.6,"
+    Director:
+James Gray
+| 
+    Stars:
+Marion Cotillard, 
+Joaquin Phoenix, 
+Jeremy Renner, 
+Dagmara Dominczyk
+","30,649",120.0,2.01
+Step Up All In,2014,"
+Drama, Music, Romance            ",6.0,"
+    Director:
+Trish Sie
+| 
+    Stars:
+Ryan Guzman, 
+Briana Evigan, 
+Adam Sevani, 
+Misha Gabriel Hamilton
+","33,247",112.0,14.9
+Take Me,2017,"
+Comedy, Crime, Mystery            ",6.1,"
+    Director:
+Pat Healy
+| 
+    Stars:
+Pat Healy, 
+Taylor Schilling, 
+Alycia Delmore, 
+Jim O'Heir
+","5,088",83.0,0.0
+Un long dimanche de fiançailles,2004,"
+Drama, Mystery, Romance            ",7.6,"
+    Director:
+Jean-Pierre Jeunet
+| 
+    Stars:
+Audrey Tautou, 
+Gaspard Ulliel, 
+Jodie Foster, 
+Dominique Pinon
+","71,916",133.0,6.17
+Kokuriko-zaka kara,2011,"
+Animation, Drama, Family            ",7.4,"
+    Director:
+Gorô Miyazaki
+| 
+    Stars:
+Sarah Bolger, 
+Chris Noth, 
+Anton Yelchin, 
+Christina Hendricks
+","38,625",91.0,1.0
+Extremely Loud & Incredibly Close,2011,"
+Adventure, Drama, Mystery            ",6.9,"
+    Director:
+Stephen Daldry
+| 
+    Stars:
+Thomas Horn, 
+Tom Hanks, 
+Sandra Bullock, 
+Max von Sydow
+","99,165",129.0,31.85
+Red Riding Hood,2011,"
+Fantasy, Horror, Mystery            ",5.5,"
+    Director:
+Catherine Hardwicke
+| 
+    Stars:
+Amanda Seyfried, 
+Lukas Haas, 
+Gary Oldman, 
+Billy Burke
+","109,473",100.0,37.66
+Get Rich or Die Tryin',2005,"
+Biography, Crime, Drama            ",5.4,"
+    Director:
+Jim Sheridan
+| 
+    Stars:
+50 Cent, 
+Joy Bryant, 
+Adewale Akinnuoye-Agbaje, 
+Omar Benson Miller
+","45,092",117.0,30.98
+Hit and Run,2012,"
+Action, Adventure, Comedy            ",6.1,"
+    Directors:
+David Palmer, 
+Dax Shepard
+| 
+    Stars:
+Dax Shepard, 
+Kristen Bell, 
+Bradley Cooper, 
+Kristin Chenoweth
+","35,252",100.0,13.75
+Duck Butter,2018,"
+Comedy, Drama, Romance            ",5.3,"
+    Director:
+Miguel Arteta
+| 
+    Stars:
+Alia Shawkat, 
+Drew Langer, 
+Marc Maron, 
+Mark Duplass
+","3,531",93.0,0.01
+Liu lang di qiu,2019,"
+Action, Adventure, Sci-Fi            ",6.0,"
+    Director:
+Frant Gwo
+| 
+    Stars:
+Jing Wu, 
+Chuxiao Qu, 
+Guangjie Li, 
+Man-Tat Ng
+","28,264",125.0,5.88
+Philomena,2013,"
+Biography, Comedy, Drama            ",7.6,"
+    Director:
+Stephen Frears
+| 
+    Stars:
+Judi Dench, 
+Steve Coogan, 
+Sophie Kennedy Clark, 
+Mare Winningham
+","96,244",98.0,37.71
+Alvin and the Chipmunks: The Squeakquel,2009,"
+Animation, Adventure, Comedy            ",4.5,"
+    Director:
+Betty Thomas
+| 
+    Stars:
+Jason Lee, 
+Zachary Levi, 
+David Cross, 
+Justin Long
+","45,491",88.0,219.61
+In the Name of the King: A Dungeon Siege Tale,2007,"
+Action, Adventure, Fantasy            ",3.8,"
+    Director:
+Uwe Boll
+| 
+    Stars:
+Jason Statham, 
+Ron Perlman, 
+Ray Liotta, 
+Leelee Sobieski
+","46,327",127.0,4.54
+The Little Mermaid,2018,"
+Adventure, Drama, Fantasy            ",4.3,"
+    Directors:
+Blake Harris, 
+Chris Bouchard
+| 
+    Stars:
+William Moseley, 
+Poppy Drayton, 
+Loreto Peralta, 
+Armando Gutierrez
+","8,546",85.0,7.15
+Miss Bala,2019,"
+Action, Crime, Drama            ",5.8,"
+    Director:
+Catherine Hardwicke
+| 
+    Stars:
+Gina Rodriguez, 
+Thomas Dekker, 
+Vivian Chan, 
+Barbarella Pardo
+","10,048",104.0,15.01
+John Dies at the End,2012,"
+Comedy, Fantasy, Horror            ",6.4,"
+    Director:
+Don Coscarelli
+| 
+    Stars:
+Chase Williamson, 
+Rob Mayes, 
+Paul Giamatti, 
+Clancy Brown
+","37,007",99.0,0.14
+Kaguya-hime no monogatari,2013,"
+Animation, Adventure, Drama            ",8.0,"
+    Director:
+Isao Takahata
+| 
+    Stars:
+Chloë Grace Moretz, 
+James Caan, 
+Mary Steenburgen, 
+James Marsden
+","41,510",137.0,1.51
+Dumbo,1941,"
+Animation, Adventure, Drama            ",7.2,"
+    Directors:
+Samuel Armstrong, 
+Norman Ferguson, 
+Wilfred Jackson, 
+Jack Kinney, 
+Bill Roberts, 
+Ben Sharpsteen, 
+John Elliotte
+| 
+    Stars:
+Sterling Holloway, 
+Edward Brophy, 
+Herman Bing, 
+Mel Blanc
+","124,409",64.0,1.6
+Le Petit Prince,2015,"
+Animation, Adventure, Drama            ",7.7,"
+    Director:
+Mark Osborne
+| 
+    Stars:
+Jeff Bridges, 
+Mackenzie Foy, 
+Rachel McAdams, 
+Marion Cotillard
+","58,668",108.0,1.34
+Tangerine,2015,"
+Comedy, Crime, Drama            ",7.1,"
+    Director:
+Sean Baker
+| 
+    Stars:
+Kitana Kiki Rodriguez, 
+Mya Taylor, 
+Karren Karagulian, 
+Mickey O'Hagan
+","28,651",88.0,0.7
+A Man Apart,2003,"
+Action, Crime, Drama            ",6.1,"
+    Director:
+F. Gary Gray
+| 
+    Stars:
+Vin Diesel, 
+Timothy Olyphant, 
+Larenz Tate, 
+Geno Silva
+","46,040",109.0,26.18
+Romeo & Juliet,2013,"
+Drama, Romance            ",5.8,"
+    Director:
+Carlo Carlei
+| 
+    Stars:
+Hailee Steinfeld, 
+Douglas Booth, 
+Damian Lewis, 
+Laura Morante
+","11,411",118.0,1.16
+Mongol,2007,"
+Action, Biography, Drama            ",7.2,"
+    Director:
+Sergei Bodrov
+| 
+    Stars:
+Tadanobu Asano, 
+Amadu Mamadakov, 
+Khulan Chuluun, 
+Honglei Sun
+","45,408",126.0,5.7
+The Gunman,2015,"
+Action, Crime, Thriller            ",5.8,"
+    Director:
+Pierre Morel
+| 
+    Stars:
+Sean Penn, 
+Idris Elba, 
+Jasmine Trinca, 
+Javier Bardem
+","39,993",115.0,10.64
+Yip Man 3,2015,"
+Action, Biography, Drama            ",7.1,"
+    Director:
+Wilson Yip
+| 
+    Stars:
+Donnie Yen, 
+Lynn Xiong, 
+Jin Zhang, 
+Mike Tyson
+","51,648",105.0,2.68
+Mugen no jûnin,2017,"
+Action, Drama, Fantasy            ",6.8,"
+    Director:
+Takashi Miike
+| 
+    Stars:
+Takuya Kimura, 
+Hana Sugisaki, 
+Sôta Fukushi, 
+Hayato Ichihara
+","16,248",140.0,0.15
+Kal Hee,1991,"
+Animation, Drama, Romance            ",7.6,"
+    Director:
+Isao Takahata
+| 
+    Stars:
+Miki Imai, 
+Toshirô Yanagiba, 
+Yoko Honna, 
+Mayumi Izuka
+","28,969",118.0,0.45
+Kahaani,2012,"
+Mystery, Thriller            ",8.1,"
+    Director:
+Sujoy Ghosh
+| 
+    Stars:
+Vidya Balan, 
+Parambrata Chattopadhyay, 
+Indraneil Sengupta, 
+Nawazuddin Siddiqui
+","59,675",122.0,1.04
+Arbitrage,2012,"
+Drama, Thriller            ",6.6,"
+    Director:
+Nicholas Jarecki
+| 
+    Stars:
+Richard Gere, 
+Susan Sarandon, 
+Brit Marling, 
+Tim Roth
+","51,051",107.0,7.92
+Premium Rush,2012,"
+Action, Crime, Thriller            ",6.5,"
+    Director:
+David Koepp
+| 
+    Stars:
+Joseph Gordon-Levitt, 
+Michael Shannon, 
+Dania Ramirez, 
+Sean Kennedy
+","111,533",91.0,20.28
+Gedo senki,2006,"
+Animation, Adventure, Fantasy            ",6.4,"
+    Director:
+Gorô Miyazaki
+| 
+    Stars:
+Timothy Dalton, 
+Willem Dafoe, 
+Mariska Hargitay, 
+Jun'ichi Okada
+","37,082",115.0,0.05
+The Painted Veil,2006,"
+Drama, Romance            ",7.5,"
+    Director:
+John Curran
+| 
+    Stars:
+Naomi Watts, 
+Edward Norton, 
+Liev Schreiber, 
+Catherine An
+","90,212",125.0,8.06
+Beirut,2018,"
+Action, Crime, Drama            ",6.5,"
+    Director:
+Brad Anderson
+| 
+    Stars:
+Jon Hamm, 
+Jay Potter, 
+Khalid Benchagra, 
+Ania Josse
+","20,085",110.0,5.02
+An Interview with God,2018,"
+Drama, Mystery            ",5.8,"
+    Director:
+Perry Lang
+| 
+    Stars:
+David Strathairn, 
+Brenton Thwaites, 
+Yael Grobglas, 
+Charlbi Dean
+","3,470",97.0,1.25
+Into the Forest,2015,"
+Drama, Thriller            ",5.8,"
+    Director:
+Patricia Rozema
+| 
+    Stars:
+Elliot Page, 
+Evan Rachel Wood, 
+Max Minghella, 
+Callum Keith Rennie
+","19,853",101.0,0.01
+Smurfs: The Lost Village,2017,"
+Animation, Adventure, Comedy            ",6.0,"
+    Director:
+Kelly Asbury
+| 
+    Stars:
+Demi Lovato, 
+Rainn Wilson, 
+Joe Manganiello, 
+Jack McBrayer
+","19,549",90.0,45.02
+Kon-Tiki,2012,"
+Adventure, Biography, Drama            ",7.2,"
+    Directors:
+Joachim Rønning, 
+Espen Sandberg
+| 
+    Stars:
+Pål Sverre Hagen, 
+Anders Baasmo Christiansen, 
+Gustaf Skarsgård, 
+Odd-Magnus Williamson
+","47,166",118.0,1.52
+Under the Shadow,2016,"
+Drama, Fantasy, Horror            ",6.9,"
+    Director:
+Babak Anvari
+| 
+    Stars:
+Narges Rashidi, 
+Avin Manshadi, 
+Bobby Naderi, 
+Arash Marandi
+","25,632",84.0,0.03
+A Man for All Seasons,1966,"
+Biography, Drama, History            ",7.7,"
+    Director:
+Fred Zinnemann
+| 
+    Stars:
+Paul Scofield, 
+Wendy Hiller, 
+Robert Shaw, 
+Leo McKern
+","32,729",120.0,28.35
+Million Dollar Arm,2014,"
+Biography, Drama, Sport            ",7.0,"
+    Director:
+Craig Gillespie
+| 
+    Stars:
+Jon Hamm, 
+Aasif Mandvi, 
+Alan Arkin, 
+Suraj Sharma
+","44,546",124.0,36.45
+The Dawn Wall,2017,"
+Documentary, Biography, Sport            ",8.1,"
+    Directors:
+Josh Lowell, 
+Peter Mortimer
+| 
+    Stars:
+John Branch, 
+Tommy Caldwell, 
+Kevin Jorgeson
+","16,824",100.0,1.08
+Big Game,2014,"
+Action, Adventure            ",5.4,"
+    Director:
+Jalmari Helander
+| 
+    Stars:
+Samuel L. Jackson, 
+Onni Tommila, 
+Ray Stevenson, 
+Victor Garber
+","31,914",90.0,0.02
+The Bookshop,2017,"
+Drama            ",6.5,"
+    Director:
+Isabel Coixet
+| 
+    Stars:
+Emily Mortimer, 
+Bill Nighy, 
+Hunter Tremayne, 
+Honor Kneafsey
+","13,939",113.0,1.33
+D-Tox,2002,"
+Crime, Thriller            ",5.3,"
+    Director:
+Jim Gillespie
+| 
+    Stars:
+Sylvester Stallone, 
+Charles S. Dutton, 
+Polly Walker, 
+Kris Kristofferson
+","25,639",96.0,0.08
+A United Kingdom,2016,"
+Biography, Drama, History            ",6.9,"
+    Director:
+Amma Asante
+| 
+    Stars:
+David Oyelowo, 
+Rosamund Pike, 
+Tom Felton, 
+Jack Davenport
+","15,365",111.0,3.9
+Naissance des pieuvres,2007,"
+Drama, Romance            ",6.7,"
+    Director:
+Céline Sciamma
+| 
+    Stars:
+Pauline Acquart, 
+Louise Blachère, 
+Adèle Haenel, 
+Warren Jacquin
+","10,813",85.0,0.08
+Jue di tao wang,2016,"
+Action, Adventure, Comedy            ",5.7,"
+    Director:
+Renny Harlin
+| 
+    Stars:
+Jackie Chan, 
+Johnny Knoxville, 
+Bingbing Fan, 
+Eric Tsang
+","19,872",107.0,0.0
+The Hurricane Heist,2018,"
+Action, Adventure, Crime            ",5.1,"
+    Director:
+Rob Cohen
+| 
+    Stars:
+Toby Kebbell, 
+Maggie Grace, 
+Ryan Kwanten, 
+Ralph Ineson
+","19,776",103.0,6.12
+The Night Before,2015,"
+Comedy, Fantasy            ",6.4,"
+    Director:
+Jonathan Levine
+| 
+    Stars:
+Joseph Gordon-Levitt, 
+Seth Rogen, 
+Jillian Bell, 
+Lizzy Caplan
+","68,503",101.0,43.04
+Laggies,2014,"
+Comedy, Drama, Romance            ",6.4,"
+    Director:
+Lynn Shelton
+| 
+    Stars:
+Keira Knightley, 
+Chloë Grace Moretz, 
+Sam Rockwell, 
+Mark Webber
+","42,740",99.0,0.44
+Mark Felt: The Man Who Brought Down the White House,2017,"
+Biography, Drama, History            ",6.4,"
+    Director:
+Peter Landesman
+| 
+    Stars:
+Liam Neeson, 
+Diane Lane, 
+Marton Csokas, 
+Tony Goldwyn
+","12,491",103.0,0.77
+Forces spéciales,2011,"
+Action, Drama, War            ",6.4,"
+    Director:
+Stéphane Rybojad
+| 
+    Stars:
+Diane Kruger, 
+Djimon Hounsou, 
+Benoît Magimel, 
+Denis Ménochet
+","18,275",109.0,0.01
+Death Warrant,1990,"
+Action, Crime, Mystery            ",5.7,"
+    Director:
+Deran Sarafian
+| 
+    Stars:
+Jean-Claude Van Damme, 
+Robert Guillaume, 
+Cynthia Gibb, 
+George Dickerson
+","17,926",89.0,16.85
+Beyond a Reasonable Doubt,2009,"
+Crime, Drama, Mystery            ",5.9,"
+    Director:
+Peter Hyams
+| 
+    Stars:
+Jesse Metcalfe, 
+Amber Tamblyn, 
+Michael Douglas, 
+Joel David Moore
+","12,570",106.0,0.03
+The Warrior's Way,2010,"
+Action, Fantasy, Western            ",6.3,"
+    Director:
+Sngmoo Lee
+| 
+    Stars:
+Jang Dong-Gun, 
+Kate Bosworth, 
+Geoffrey Rush, 
+Danny Huston
+","25,758",100.0,5.66
+King Cobra,2016,"
+Crime, Drama            ",5.6,"
+    Director:
+Justin Kelly
+| 
+    Stars:
+Garrett Clayton, 
+Christian Slater, 
+Molly Ringwald, 
+James Kelley
+","8,572",91.0,0.03
+Mirai no Mirai,2018,"
+Animation, Adventure, Drama            ",7.0,"
+    Director:
+Mamoru Hosoda
+| 
+    Stars:
+Rebecca Hall, 
+Daniel Dae Kim, 
+John Cho, 
+Crispin Freeman
+","13,651",98.0,0.81
+Skjelvet,2018,"
+Action, Drama, Thriller            ",6.2,"
+    Director:
+John Andreas Andersen
+| 
+    Stars:
+Kristoffer Joner, 
+Ane Dahl Torp, 
+Edith Haagenrud-Sande, 
+Kathrine Thorborg Johansen
+","10,622",106.0,0.01
+Drinking Buddies,2013,"
+Comedy, Drama, Romance            ",6.1,"
+    Director:
+Joe Swanberg
+| 
+    Stars:
+Olivia Wilde, 
+Jake Johnson, 
+Anna Kendrick, 
+Ron Livingston
+","56,754",90.0,0.34
+Ala Vaikunthapurramuloo,2020,"
+Action, Comedy, Drama            ",7.3,"
+    Director:
+Trivikram Srinivas
+| 
+    Stars:
+Allu Arjun, 
+Pooja Hegde, 
+Tabu, 
+Jayaram
+","10,091",163.0,4.7
+Blue Jay,2016,"
+Drama, Romance            ",7.3,"
+    Director:
+Alex Lehmann
+| 
+    Stars:
+Mark Duplass, 
+Sarah Paulson, 
+Clu Gulager, 
+James Andrews
+","15,777",80.0,0.01
+Jui kuen II,1994,"
+Action, Comedy            ",7.6,"
+    Directors:
+Chia-Liang Liu, 
+Jackie Chan
+| 
+    Stars:
+Jackie Chan, 
+Ho-Sung Pak, 
+Lung Ti, 
+Anita Mui
+","44,060",102.0,11.55
+The Last Legion,2007,"
+Action, Adventure, War            ",5.4,"
+    Director:
+Doug Lefler
+| 
+    Stars:
+Colin Firth, 
+Ben Kingsley, 
+Aishwarya Rai Bachchan, 
+Peter Mullan
+","34,726",101.0,5.93
+Thumbelina,1994,"
+Animation, Family, Fantasy            ",6.4,"
+    Directors:
+Don Bluth, 
+Gary Goldman
+| 
+    Stars:
+Jodi Benson, 
+Gary Imhoff, 
+Gino Conforti, 
+Barbara Cook
+","16,055",86.0,11.37
+Other People,2016,"
+Comedy, Drama            ",6.8,"
+    Director:
+Chris Kelly
+| 
+    Stars:
+Jesse Plemons, 
+Molly Shannon, 
+Bradley Whitford, 
+Maude Apatow
+","10,487",97.0,0.09
+Celeste & Jesse Forever,2012,"
+Comedy, Drama, Romance            ",6.6,"
+    Director:
+Lee Toland Krieger
+| 
+    Stars:
+Rashida Jones, 
+Andy Samberg, 
+Elijah Wood, 
+Emma Roberts
+","30,382",92.0,3.09
+Racing Stripes,2005,"
+Adventure, Comedy, Drama            ",5.2,"
+    Director:
+Frederik Du Chau
+| 
+    Stars:
+Frankie Muniz, 
+David Spade, 
+Snoop Dogg, 
+Bruce Greenwood
+","16,506",102.0,49.77
+Middle School: The Worst Years of My Life,2016,"
+Animation, Comedy, Family            ",6.1,"
+    Director:
+Steve Carr
+| 
+    Stars:
+Griffin Gluck, 
+Lauren Graham, 
+Alexa Nisenson, 
+Andrew Daly
+","8,256",92.0,19.99
+People Like Us,2012,"
+Comedy, Drama            ",7.1,"
+    Director:
+Alex Kurtzman
+| 
+    Stars:
+Chris Pine, 
+Elizabeth Banks, 
+Michelle Pfeiffer, 
+Olivia Wilde
+","42,162",114.0,12.41
+Dilwale,2015,"
+Action, Comedy, Drama            ",5.1,"
+    Director:
+Rohit Shetty
+| 
+    Stars:
+Shah Rukh Khan, 
+Kajol, 
+Varun Dhawan, 
+Kriti Sanon
+","32,707",158.0,4.83
+The ABCs of Death,2012,"
+Comedy, Horror            ",4.7,"
+    Directors:
+Kaare Andrews, 
+Angela Bettis, 
+Hélène Cattet, 
+Ernesto Díaz Espinoza, 
+Jason Eisener, 
+Bruno Forzani, 
+Adrian Garcia Bogliano, 
+Xavier Gens, 
+Jorge Michel Grau, 
+Lee Hardcastle, 
+Noboru Iguchi, 
+Thomas Cappelen Malling, 
+Anders Morgenthaler, 
+Yoshihiro Nishimura, 
+Banjong Pisanthanakun, 
+Simon Rumley, 
+Marcel Sarmiento, 
+Jon Schnepp, 
+Srdjan Spasojevic, 
+Timo Tjahjanto, 
+Andrew Traucki, 
+Nacho Vigalondo, 
+Jake West, 
+Ti West, 
+Ben Wheatley, 
+Adam Wingard, 
+Yudai Yamaguchi
+| 
+    Stars:
+Ingrid Bolsø Berdal, 
+Iván González, 
+Kyra Zagorsky, 
+Lucy Clements
+","18,559",129.0,0.02
+The Breadwinner,2017,"
+Animation, Drama, Family            ",7.7,"
+    Director:
+Nora Twomey
+| 
+    Stars:
+Saara Chaudry, 
+Soma Chhaya, 
+Noorin Gulamgaus, 
+Laara Sadiq
+","22,504",94.0,0.31
+Acrimony,2018,"
+Thriller            ",5.8,"
+    Director:
+Tyler Perry
+| 
+    Stars:
+Taraji P. Henson, 
+Lyriq Bent, 
+Crystle Stewart, 
+Jazmyn Simon
+","8,263",120.0,43.55
+LBJ,2016,"
+Biography, Drama, History            ",6.5,"
+    Director:
+Rob Reiner
+| 
+    Stars:
+Woody Harrelson, 
+Michael Stahl-David, 
+Richard Jenkins, 
+Jennifer Jason Leigh
+","6,303",98.0,2.47
+The Bag Man,2014,"
+Action, Crime, Drama            ",5.2,"
+    Director:
+David Grovic
+| 
+    Stars:
+John Cusack, 
+Rebecca Da Costa, 
+Robert De Niro, 
+Crispin Glover
+","16,620",108.0,0.05
+Viceroy's House,2017,"
+Biography, Drama, History            ",6.7,"
+    Director:
+Gurinder Chadha
+| 
+    Stars:
+Hugh Bonneville, 
+Gillian Anderson, 
+Manish Dayal, 
+Huma Qureshi
+","7,296",106.0,1.11
+Joshua,2007,"
+Drama, Horror, Thriller            ",5.9,"
+    Director:
+George Ratliff
+| 
+    Stars:
+Sam Rockwell, 
+Vera Farmiga, 
+Jacob Kogan, 
+Celia Weston
+","12,266",106.0,0.48
+The Perfect Host,2010,"
+Comedy, Crime, Thriller            ",6.8,"
+    Director:
+Nick Tomnay
+| 
+    Stars:
+David Hyde Pierce, 
+Clayne Crawford, 
+Nathaniel Parker, 
+Tyrees Allen
+","26,028",93.0,0.05
+Te3n,2016,"
+Drama, Mystery, Thriller            ",7.3,"
+    Director:
+Ribhu Dasgupta
+| 
+    Stars:
+Amitabh Bachchan, 
+Nawazuddin Siddiqui, 
+Vidya Balan, 
+Mukesh Chhabra
+","12,303",136.0,0.26
+Coco avant Chanel,2009,"
+Biography, Drama            ",6.7,"
+    Director:
+Anne Fontaine
+| 
+    Stars:
+Audrey Tautou, 
+Benoît Poelvoorde, 
+Alessandro Nivola, 
+Marie Gillain
+","39,401",105.0,6.11
+Wildflower,2014,"
+Drama, Thriller            ",5.3,"
+    Director:
+Nicholas DiBella
+| 
+    Stars:
+Nathalia Ramos, 
+Cody Longo, 
+Alexa Rose Steele, 
+Benjamin Ashbrook
+",866,92.0,0.01
+Pariah,2011,"
+Drama            ",7.2,"
+    Director:
+Dee Rees
+| 
+    Stars:
+Adepero Oduye, 
+Kim Wayans, 
+Aasha Davis, 
+Pernell Walker
+","6,525",86.0,0.76
+Boy Meets Girl,2014,"
+Comedy, Drama, Romance            ",7.1,"
+    Director:
+Eric Schaeffer
+| 
+    Stars:
+Michael Welch, 
+Michelle Hendley, 
+Alexandra Turshen, 
+Michael Galante
+","4,391",95.0,0.02
+Operation Avalanche,2016,"
+Drama, Mystery, Thriller            ",6.1,"
+    Director:
+Matt Johnson
+| 
+    Stars:
+Matt Johnson, 
+Owen Williams, 
+Andrew Appelle, 
+Jared Raab
+","6,983",94.0,0.06
+Dealin' with Idiots,2013,"
+Comedy            ",5.4,"
+    Director:
+Jeff Garlin
+| 
+    Stars:
+Jeff Garlin, 
+Steve Agee, 
+Gina Gershon, 
+Jami Gertz
+","1,306",88.0,0.02
+Contracted,2013,"
+Drama, Horror, Thriller            ",5.3,"
+    Director:
+Eric England
+| 
+    Stars:
+Najarra Townsend, 
+Caroline Williams, 
+Alice Macdonald, 
+Matt Mercer
+","14,668",84.0,0.0
+XX,2017,"
+Horror            ",4.6,"
+    Directors:
+Roxanne Benjamin, 
+Sofìa Carrillo, 
+Karyn Kusama, 
+St. Vincent, 
+Jovanka Vuckovic
+| 
+    Stars:
+Natalie Brown, 
+Jonathan Watton, 
+Peter DaCunha, 
+Peyton Kennedy
+","11,394",80.0,0.03
+V/H/S Viral,2014,"
+Horror, Thriller            ",4.2,"
+    Directors:
+Justin Benson, 
+Gregg Bishop, 
+Todd Lincoln, 
+Aaron Moorhead, 
+Marcel Sarmiento, 
+Nacho Vigalondo
+| 
+    Stars:
+Patrick Lawrie, 
+Emilia Ares, 
+Celia K. Milius, 
+Steve Berens
+","15,520",81.0,0.0
+Inosensu: Innocence,2004,"
+Animation, Action, Drama            ",7.5,"
+    Director:
+Mamoru Oshii
+| 
+    Stars:
+Akio Ôtsuka, 
+Atsuko Tanaka, 
+Tamio Ôki, 
+Kôichi Yamadera
+","37,017",100.0,1.04
+Manny & Lo,1996,"
+Comedy, Drama            ",6.6,"
+    Director:
+Lisa Krueger
+| 
+    Stars:
+Scarlett Johansson, 
+Aleksa Palladino, 
+Mary Kay Place, 
+Dean Silvers
+","1,944",88.0,0.5
+Brotherly Love,2015,"
+Drama            ",6.7,"
+    Director:
+Jamal Hill
+| 
+    Stars:
+Keke Palmer, 
+Cory Hardrict, 
+Romeo Miller, 
+Eric D. Hill Jr.
+","1,787",89.0,0.44
+Ashby,2015,"
+Comedy, Crime, Drama            ",6.4,"
+    Director:
+Tony McNamara
+| 
+    Stars:
+Mickey Rourke, 
+Nat Wolff, 
+Emma Roberts, 
+Sarah Silverman
+","15,197",100.0,0.0
+Results,2015,"
+Comedy, Romance            ",5.4,"
+    Director:
+Andrew Bujalski
+| 
+    Stars:
+Guy Pearce, 
+Cobie Smulders, 
+Kevin Corrigan, 
+Giovanni Ribisi
+","6,774",105.0,0.1
+This Film Is Not Yet Rated,2006,"
+Documentary            ",7.5,"
+    Director:
+Kirby Dick
+| 
+    Stars:
+Kirby Dick, 
+Kimberly Peirce, 
+Darren Aronofsky, 
+Atom Egoyan
+","27,671",98.0,0.3
+Mind Game,2004,"
+Animation, Adventure, Comedy            ",7.8,"
+    Directors:
+Masaaki Yuasa, 
+Kôji Morimoto
+| 
+    Stars:
+Kôji Imada, 
+Sayaka Maeda, 
+Takashi Fujii, 
+Seiko Takuma
+","8,774",103.0,0.04
+Hell and Back,2015,"
+Animation, Adventure, Comedy            ",5.4,"
+    Directors:
+Tom Gianas, 
+Ross Shuman
+| 
+    Stars:
+Nick Swardson, 
+Mila Kunis, 
+Bob Odenkirk, 
+T.J. Miller
+","4,823",86.0,0.16
+Born to Be Blue,2015,"
+Biography, Drama, Music            ",6.9,"
+    Director:
+Robert Budreau
+| 
+    Stars:
+Ethan Hawke, 
+Carmen Ejogo, 
+Callum Keith Rennie, 
+Tony Nappo
+","8,304",97.0,0.83
+Life Itself,2014,"
+Documentary, Biography            ",7.8,"
+    Director:
+Steve James
+| 
+    Stars:
+Roger Ebert, 
+Chaz Ebert, 
+Gene Siskel, 
+Martin Scorsese
+","15,182",121.0,0.81
+Hai Phuong,2019,"
+Action, Drama, Thriller            ",6.3,"
+    Director:
+Le-Van Kiet
+| 
+    Stars:
+Veronica Ngo, 
+Mai Cát Vi, 
+Thanh Nhien Phan, 
+Pham Anh Khoa
+","4,265",98.0,0.59
+Our Man Flint,1966,"
+Action, Adventure, Comedy            ",6.5,"
+    Director:
+Daniel Mann
+| 
+    Stars:
+James Coburn, 
+Lee J. Cobb, 
+Gila Golan, 
+Edward Mulhare
+","6,205",108.0,16.0
+Hagane no renkinjutsushi: Mirosu no seinaru hoshi,2011,"
+Animation, Action, Adventure            ",7.0,"
+    Director:
+Kazuya Murata
+| 
+    Stars:
+Vic Mignogna, 
+Maxey Whitehead, 
+Alexis Tipton, 
+Matthew Mercer
+","4,653",110.0,0.18
+Won't Back Down,2012,"
+Drama            ",6.5,"
+    Director:
+Daniel Barnz
+| 
+    Stars:
+Viola Davis, 
+Maggie Gyllenhaal, 
+Holly Hunter, 
+Oscar Isaac
+","6,317",121.0,5.31
+Mob Psycho 100,2018,"
+Sci-Fi, Thriller            ",5.1,"
+            
+    Stars:
+Ayumu Mochizuki, 
+Tatsuomi Hamada, 
+Atsushi Arai, 
+Masayuki Deai
+",462,24.0,0.12
+Jinn,2014,"
+Fantasy, Horror, Thriller            ",4.2,"
+    Director:
+Ajmal Zaheer Ahmad
+| 
+    Stars:
+Dominic Rains, 
+Ray Park, 
+William Atherton, 
+Faran Tahir
+","4,638",97.0,0.15
+Nocturama,2016,"
+Drama, Thriller            ",6.4,"
+    Director:
+Bertrand Bonello
+| 
+    Stars:
+Finnegan Oldfield, 
+Vincent Rottiers, 
+Hamza Meziani, 
+Manal Issa
+","4,659",130.0,0.03
+Seoul Searching,2015,"
+Comedy, Drama, Music            ",7.0,"
+    Director:
+Benson Lee
+| 
+    Stars:
+Justin Chon, 
+Jessika Van, 
+In-Pyo Cha, 
+Teo Yoo
+","1,537",105.0,0.02
+Middle of Nowhere,2012,"
+Drama            ",6.4,"
+    Director:
+Ava DuVernay
+| 
+    Stars:
+Emayatzy Corinealdi, 
+David Oyelowo, 
+Lorraine Toussaint, 
+Edwina Findley
+","1,713",97.0,0.08
+17 filles,2011,"
+Drama            ",6.0,"
+    Directors:
+Delphine Coulin, 
+Muriel Coulin
+| 
+    Stars:
+Louise Grinberg, 
+Juliette Darche, 
+Roxane Duran, 
+Esther Garrel
+","3,140",86.0,0.02
+Adult Beginners,2014,"
+Action, Comedy, Drama            ",5.6,"
+    Director:
+Ross Katz
+| 
+    Stars:
+Nick Kroll, 
+Rose Byrne, 
+Bobby Cannavale, 
+Joel McHale
+","8,169",92.0,0.1
+Finding Bliss,2009,"
+Comedy, Romance            ",5.3,"
+    Director:
+Julie Davis
+| 
+    Stars:
+Leelee Sobieski, 
+Matthew Davis, 
+Jamie Kennedy, 
+Denise Richards
+","2,442",96.0,0.01
+The King and I,1999,"
+Animation, Family, Fantasy            ",4.5,"
+    Director:
+Richard Rich
+| 
+    Stars:
+Miranda Richardson, 
+Martin Vidnovic, 
+Christiane Noll, 
+Ian Richardson
+","3,922",87.0,11.96
+All the Queen's Men,2001,"
+Action, Comedy, Drama            ",4.9,"
+    Director:
+Stefan Ruzowitzky
+| 
+    Stars:
+Eddie Izzard, 
+Matt LeBlanc, 
+Udo Kier, 
+James Cosmo
+","2,590",99.0,0.02
+Any Day Now,2012,"
+Drama            ",7.5,"
+    Director:
+Travis Fine
+| 
+    Stars:
+Alan Cumming, 
+Garret Dillahunt, 
+Isaac Leyva, 
+Frances Fisher
+","6,037",98.0,0.2
+Pyaar Ka Punchnama 2,2015,"
+Comedy, Drama, Romance            ",7.2,"
+    Director:
+Luv Ranjan
+| 
+    Stars:
+Kartik Aaryan, 
+Omkar Kapoor, 
+Sunny Singh Nijjar, 
+Nushrat Bharucha
+","14,399",137.0,0.22
+Oorlogswinter,2008,"
+Drama, History, War            ",7.0,"
+    Director:
+Martin Koolhoven
+| 
+    Stars:
+Martijn Lakemeier, 
+Jamie Campbell Bower, 
+Yorick van Wageningen, 
+Raymond Thiry
+","12,479",103.0,0.54
+The Last of Robin Hood,2013,"
+Biography, Drama, Romance            ",5.7,"
+    Directors:
+Richard Glatzer, 
+Wash Westmoreland
+| 
+    Stars:
+John Hudson Messerall, 
+Brian Bascle, 
+Daniel J. Clancy, 
+Kelly O'Neal
+","2,131",94.0,0.27
+Yoake tsugeru Rû no uta,2017,"
+Animation, Adventure, Comedy            ",6.8,"
+    Director:
+Masaaki Yuasa
+| 
+    Stars:
+Kanon Tani, 
+Shôta Shimoda, 
+Minako Kotobuki, 
+Sôma Saitô
+","1,991",112.0,0.11
+Fed Up,2014,"
+Documentary            ",7.7,"
+    Director:
+Stephanie Soechtig
+| 
+    Stars:
+Michele Simon, 
+Katie Couric, 
+Bill Clinton, 
+Michael Bloomberg
+","11,714",92.0,1.54
+Whitney,2018,"
+Documentary, Biography, Drama            ",7.3,"
+    Director:
+Kevin Macdonald
+| 
+    Stars:
+Whitney Houston, 
+Ellen White, 
+Michael Houston, 
+Cissy Houston
+","7,004",120.0,3.03
+Under solen,1998,"
+Drama, Romance            ",6.7,"
+    Director:
+Colin Nutley
+| 
+    Stars:
+Rolf Lassgård, 
+Helena Bergström, 
+Johan Widerberg, 
+Gunilla Röör
+","2,510",130.0,0.29
+Damsels in Distress,2011,"
+Comedy, Drama, Romance            ",5.7,"
+    Director:
+Whit Stillman
+| 
+    Stars:
+Greta Gerwig, 
+Adam Brody, 
+Lio Tipton, 
+Megalyn Echikunwoke
+","9,343",99.0,1.01
+Tomorrow Is Forever,1946,"
+Drama, Romance, War            ",7.4,"
+    Director:
+Irving Pichel
+| 
+    Stars:
+Claudette Colbert, 
+Orson Welles, 
+George Brent, 
+Lucile Watson
+","2,456",104.0,3.25
+Gap tung kei hap,2014,"
+Action, Comedy, History            ",4.8,"
+    Director:
+Wing-Cheong Law
+| 
+    Stars:
+Donnie Yen, 
+Baoqiang Wang, 
+Shengyi Huang, 
+Kang Yu
+","3,436",104.0,0.01
+Muscle Shoals,2013,"
+Documentary, Biography, History            ",7.8,"
+    Director:
+Greg 'Freddy' Camalier
+| 
+    Stars:
+Rick Hall, 
+Aretha Franklin, 
+Keith Richards, 
+Candi Staton
+","3,695",111.0,0.7
+The Carer,2016,"
+Comedy, Drama            ",6.6,"
+    Director:
+János Edelényi
+| 
+    Stars:
+Maitland Chandler, 
+Ruth Posner, 
+Coco König, 
+Selina Cadell
+","1,321",89.0,0.01
+I'm Reed Fish,2006,"
+Comedy, Drama, Romance            ",5.7,"
+    Director:
+Zackary Adler
+| 
+    Stars:
+Jay Baruchel, 
+Alexis Bledel, 
+Victor Rasuk, 
+Schuyler Fisk
+","4,283",93.0,0.0
+The Hunting Ground,2015,"
+Documentary            ",7.4,"
+    Director:
+Kirby Dick
+| 
+    Stars:
+Andrea Pino, 
+Annie Clark, 
+Claire Potter, 
+Melinda Manning
+","6,072",103.0,0.41
+Somm,2012,"
+Documentary            ",7.1,"
+    Director:
+Jason Wise
+| 
+    Stars:
+Bo Barrett, 
+Shayn Bjornholm, 
+Dave Cauble, 
+Ian Cauble
+","4,536",94.0,0.17
+Howl,2010,"
+Biography, Drama, Romance            ",6.7,"
+    Directors:
+Rob Epstein, 
+Jeffrey Friedman
+| 
+    Stars:
+James Franco, 
+Todd Rotondi, 
+Jon Prescott, 
+Aaron Tveit
+","12,757",84.0,0.62
+Kevin Hart: What Now?,2016,"
+Documentary, Comedy            ",5.9,"
+    Directors:
+Leslie Small, 
+Tim Story
+| 
+    Stars:
+Kevin Hart, 
+Don Cheadle, 
+Halle Berry, 
+Ed Helms
+","9,154",96.0,23.59
+Aala Kaf Ifrit,2017,"
+Crime, Drama, Thriller            ",7.0,"
+    Director:
+Kaouther Ben Hania
+| 
+    Stars:
+Mariam Al Ferjani, 
+Ghanem Zrelli, 
+Noomen Hamda, 
+Mohamed Akkari
+","1,912",100.0,0.01
+Interior. Leather Bar.,2013,"
+Drama            ",5.1,"
+    Directors:
+James Franco, 
+Travis Mathews
+| 
+    Stars:
+Val Lauren, 
+Christian Patrick, 
+James Franco, 
+Travis Mathews
+","2,472",60.0,0.04
+The Puffy Chair,2005,"
+Comedy, Drama, Romance            ",6.5,"
+    Directors:
+Jay Duplass, 
+Mark Duplass
+| 
+    Stars:
+Mark Duplass, 
+Katie Aselton, 
+Rhett Wilkins, 
+Julie Fischer
+","4,978",85.0,0.19
+Jonah: A VeggieTales Movie,2002,"
+Animation, Adventure, Comedy            ",6.5,"
+    Directors:
+Mike Nawrocki, 
+Phil Vischer
+| 
+    Stars:
+Phil Vischer, 
+Mike Nawrocki, 
+Tim Hodge, 
+Lisa Vischer
+","4,038",82.0,25.58
+Be Here Now,2015,"
+Documentary, Biography, Drama            ",8.6,"
+    Director:
+Lilibet Foster
+| 
+    Stars:
+Jai Courtney, 
+Andy Whitfield, 
+Indigo Whitfield, 
+Jesse Whitfield
+","3,288",100.0,0.02
+Wilbur Wants to Kill Himself,2002,"
+Comedy, Drama, Romance            ",6.8,"
+    Director:
+Lone Scherfig
+| 
+    Stars:
+Jamie Sives, 
+Adrian Rawlins, 
+Shirley Henderson, 
+Lisa McKinlay
+","7,724",111.0,0.23
+The Trial,2010,"
+Crime, Drama, Mystery            ",5.6,"
+    Director:
+Gary Wheeler
+| 
+    Stars:
+Larry Bagby, 
+Clare Carey, 
+Nikki Deloach, 
+David Dwyer
+","1,462",101.0,0.02
+Grandmaster,2012,"
+Action, Thriller            ",7.0,"
+    Director:
+B. Unnikrishnan
+| 
+    Stars:
+Mohanlal, 
+Priyamani, 
+Babu Antony, 
+Arjun Nandakumar
+","2,034",100.0,0.02
+The Devil and Father Amorth,2017,"
+Documentary, Horror            ",4.6,"
+    Director:
+William Friedkin
+| 
+    Stars:
+William Friedkin, 
+Jeffrey Burton Russell, 
+Christina, 
+Gabriele Amorth
+","2,202",68.0,0.02
+Requiem for the American Dream,2015,"
+Documentary, Biography, News            ",8.1,"
+    Directors:
+Peter D. Hutchison, 
+Kelly Nyks, 
+Jared P. Scott
+| 
+    Stars:
+Noam Chomsky, 
+Alan Greenspan, 
+Malcolm X, 
+Richard Nixon
+","9,193",73.0,0.13
+Particle Fever,2013,"
+Documentary            ",7.4,"
+    Director:
+Mark Levinson
+| 
+    Stars:
+David Kaplan, 
+Fabiola Gianotti, 
+Sherwood Boehlert, 
+Joel Hefley
+","7,271",99.0,0.87
+Money,2016,"
+Crime, Mystery, Thriller            ",5.5,"
+    Director:
+Martín Rosete
+| 
+    Stars:
+Jesse Williams, 
+Kellan Lutz, 
+Jamie Bamber, 
+Jess Weixler
+","2,806",86.0,1.02
+Sufat Chol,2016,"
+Drama            ",6.8,"
+    Director:
+Elite Zexer
+| 
+    Stars:
+Lamis Ammar, 
+Ruba Blal, 
+Hitham Omari, 
+Khadija Al Akel
+","3,310",87.0,0.08
+Chiisana eiyû: Kani to tamago to tômei ningen,2018,"
+Animation, Adventure, Family            ",6.6,"
+    Directors:
+Yoshiyuki Momose, 
+Akihiko Yamashita, 
+Hiromasa Yonebayashi
+| 
+    Stars:
+Alex Cazares, 
+Jessica DiCicco, 
+Scarlett Estevez, 
+Todd Haberkorn
+","2,308",53.0,0.18
+Undefeated,2011,"
+Documentary, Sport            ",7.7,"
+    Directors:
+Daniel Lindsay, 
+T.J. Martin
+| 
+    Stars:
+Bill Courtney, 
+O.C. Brown, 
+Montrail 'Money' Brown, 
+Chavis Daniels
+","6,897",113.0,0.56
+Papa Hemingway in Cuba,2015,"
+Biography, Drama            ",6.3,"
+    Director:
+Bob Yari
+| 
+    Stars:
+Giovanni Ribisi, 
+Joely Richardson, 
+Adrian Sparks, 
+Minka Kelly
+","1,450",110.0,1.12
+Ethan Frome,1993,"
+Drama, Romance            ",6.2,"
+    Director:
+John Madden
+| 
+    Stars:
+Liam Neeson, 
+Patricia Arquette, 
+Gil Rood, 
+Tate Donovan
+","2,056",99.0,0.3
+LUV,2012,"
+Crime, Drama            ",6.0,"
+    Director:
+Sheldon Candis
+| 
+    Stars:
+Common, 
+Michael Rainey Jr., 
+Dennis Haysbert, 
+Danny Glover
+","2,136",94.0,0.14
+Touchy Feely,2013,"
+Comedy, Drama            ",5.3,"
+    Director:
+Lynn Shelton
+| 
+    Stars:
+Rosemarie DeWitt, 
+Elliot Page, 
+Josh Pais, 
+Scoot McNairy
+","3,615",88.0,0.04
+Generation Iron,2013,"
+Documentary, Drama, Sport            ",7.1,"
+    Director:
+Vlad Yudin
+| 
+    Stars:
+Arnold Schwarzenegger, 
+Mickey Rourke, 
+Michael Jai White, 
+Lou Ferrigno
+","7,715",106.0,0.85
+"Sleep, My Love",1948,"
+Drama, Film-Noir, Mystery            ",6.8,"
+    Director:
+Douglas Sirk
+| 
+    Stars:
+Claudette Colbert, 
+Robert Cummings, 
+Don Ameche, 
+Rita Johnson
+","1,631",97.0,1.8
+Bethany Hamilton: Unstoppable,2018,"
+Documentary, Sport            ",7.4,"
+    Director:
+Aaron Lieber
+| 
+    Stars:
+Alana Blanchard, 
+Adam Dirks, 
+Tobias Dirks, 
+Madison Graber
+",619,100.0,0.59
+Bettie Page Reveals All,2012,"
+Documentary, Biography            ",7.1,"
+    Director:
+Mark Mori
+| 
+    Stars:
+Bettie Page, 
+Hugh Hefner, 
+Olivia de Berardinis, 
+Dita Von Teese
+","1,459",101.0,0.1
+The Short Game,2013,"
+Documentary, Sport            ",7.3,"
+    Director:
+Josh Greenbaum
+| 
+    Stars:
+Amari Avery, 
+Jed Dy, 
+Allan Kournikova, 
+Zamokuhle Nxasana
+","1,439",99.0,0.04
+Al midan,2013,"
+Documentary, Drama, History            ",8.1,"
+    Director:
+Jehane Noujaim
+| 
+    Stars:
+Ahmed Hassan, 
+Khalid Abdalla, 
+Magdy Ashour, 
+Ramy Essam
+","8,795",108.0,0.12
+Supermensch: The Legend of Shep Gordon,2013,"
+Documentary, Biography, Music            ",7.4,"
+    Directors:
+Beth Aala, 
+Mike Myers
+| 
+    Stars:
+Shep Gordon, 
+Sylvester Stallone, 
+Michael Douglas, 
+Alice Cooper
+","3,218",85.0,0.21
+Nanking,2007,"
+Biography, History, War            ",7.6,"
+    Directors:
+Bill Guttentag, 
+Dan Sturman
+| 
+    Stars:
+Hugo Armstrong, 
+Rosalind Chao, 
+Stephen Dorff, 
+John Getz
+","3,416",90.0,0.16
+Praia do Futuro,2014,"
+Drama, Romance            ",6.4,"
+    Director:
+Karim Aïnouz
+| 
+    Stars:
+Wagner Moura, 
+Clemens Schick, 
+Jesuíta Barbosa, 
+Fred Lima
+","2,939",106.0,0.02
+Morris from America,2016,"
+Comedy, Drama, Romance            ",6.2,"
+    Director:
+Chad Hartigan
+| 
+    Stars:
+Markees Christmas, 
+Craig Robinson, 
+Carla Juri, 
+Patrick Güldenberg
+","5,201",91.0,0.09
+Orgasm Inc.,2009,"
+Documentary            ",5.9,"
+    Director:
+Elizabeth Canner
+| 
+    Stars:
+Elizabeth Canner, 
+Darby Stephens, 
+Virgil Place, 
+Leland Wilson
+",535,73.0,0.05
+Peter and the Farm,2016,"
+Documentary            ",7.1,"
+    Director:
+Tony Stone
+| 
+    Star:
+Peter Dunning
+",713,91.0,0.02
+Yosemite,2015,"
+Drama            ",4.8,"
+    Director:
+Gabrielle Demeestere
+| 
+    Stars:
+James Franco, 
+Everett Meckler, 
+Alec Mansky, 
+Calum John
+",830,80.0,0.01
+I Called Him Morgan,2016,"
+Documentary, Drama, History            ",7.3,"
+    Director:
+Kasper Collin
+| 
+    Stars:
+Lee Morgan, 
+Helen Morgan, 
+Wayne Shorter, 
+Larry Reni Thomas
+","1,649",92.0,0.1
+The Fluffy Movie: Unity Through Laughter,2014,"
+Documentary, Comedy            ",7.3,"
+    Directors:
+Manny Rodriguez, 
+Jay Lavender
+| 
+    Stars:
+Gabriel Iglesias, 
+Jacqueline Obradors, 
+Gina Brillon, 
+Alfred Robles
+","3,726",101.0,2.83
+King's Faith,2013,"
+Drama            ",6.4,"
+    Director:
+Nicholas DiBella
+| 
+    Stars:
+Crawford Wilson, 
+Lynn Whitfield, 
+James McDaniel, 
+Kayla Compton
+",744,108.0,0.09
+The Sunshine Makers,2015,"
+Documentary, History            ",7.0,"
+    Director:
+Cosmo Feilding-Mellen
+| 
+    Stars:
+Tim Scully, 
+Nick Sand, 
+Alice Einhorn, 
+Billy Hitchcock
+","1,344",101.0,0.01
+Alive Inside,2014,"
+Documentary, News            ",8.2,"
+    Director:
+Michael Rossato-Bennett
+| 
+    Stars:
+Dan Cohen, 
+Louise Dueno, 
+Nell Hardie, 
+Norman Hardie
+","3,058",78.0,0.15
+Gimme the Loot,2012,"
+Comedy, Crime, Drama            ",6.6,"
+    Director:
+Adam Leon
+| 
+    Stars:
+Ty Hickson, 
+Tashiana Washington, 
+Joshua Rivera, 
+Zoë Lescaze
+","2,461",79.0,0.1
+Kevin Hart: Let Me Explain,2013,"
+Documentary, Comedy            ",6.8,"
+    Directors:
+Leslie Small, 
+Tim Story
+| 
+    Stars:
+Kevin Hart, 
+Harry Ratchford, 
+Will 'Spank' Horton, 
+Joey Wells
+","8,731",75.0,32.24
+The Overnighters,2014,"
+Documentary, Drama            ",7.4,"
+    Director:
+Jesse Moss
+| 
+    Stars:
+Jay Reinke, 
+Andrea Reinke, 
+Alan Mezo, 
+Shelly Schultz
+","2,386",102.0,0.11
+Video Games: The Movie,2014,"
+Documentary, Animation, History            ",6.1,"
+    Director:
+Jeremy Snead
+| 
+    Stars:
+Sean Astin, 
+Al Alcorn, 
+Peter Armstrong, 
+Cliff Bleszinski
+","5,421",101.0,0.02
+War of the Worlds: Goliath,2012,"
+Animation, Action, Adventure            ",5.4,"
+    Director:
+Joe Pearson
+| 
+    Stars:
+Adam Baldwin, 
+Beau Billingslea, 
+Kim Buckingham, 
+Jim Byrnes
+","1,134",85.0,0.01
+The Bad Kids,2016,"
+Documentary            ",7.0,"
+    Directors:
+Keith Fulton, 
+Louis Pepe
+| 
+    Stars:
+Vonda Viland, 
+Julia Alexander, 
+Laura Ambrosius, 
+Robert Bartz
+",612,101.0,0.0
+Good Ol' Freda,2013,"
+Documentary, Biography, History            ",7.3,"
+    Director:
+Ryan White
+| 
+    Stars:
+Freda Kelly, 
+Paul McCartney, 
+John Lennon, 
+George Harrison
+","1,930",86.0,0.14
+The Music of Strangers,2015,"
+Documentary, Music            ",7.7,"
+    Director:
+Morgan Neville
+| 
+    Stars:
+Yo-Yo Ma, 
+Kinan Azmeh, 
+Kayhan Kalhor, 
+Cristina Pato
+",696,96.0,1.16
+Life's a Breeze,2013,"
+Comedy, Drama            ",6.3,"
+    Director:
+Lance Daly
+| 
+    Stars:
+Kelly Thornton, 
+Fionnula Flanagan, 
+Pat Shortt, 
+Eva Birthistle
+","1,103",83.0,0.0
+The Reconstruction of William Zero,2014,"
+Drama, Mystery, Sci-Fi            ",5.4,"
+    Director:
+Dan Bush
+| 
+    Stars:
+Conal Byrne, 
+Amy Seimetz, 
+Scott Poythress, 
+Lake Roberts
+","1,147",98.0,0.0
+Dayveon,2017,"
+Drama            ",6.3,"
+    Director:
+Amman Abbasi
+| 
+    Stars:
+Devin Blackmon, 
+Dontrell Bright, 
+Lachion Buckingham, 
+Kordell Johnson
+",501,75.0,0.0
+Green is Gold,2016,"
+Crime, Drama            ",6.0,"
+    Director:
+Ryon Baxter
+| 
+    Stars:
+Derek W. Adam, 
+Jimmy Baxter, 
+Ryon Baxter, 
+Billy Bodie
+",945,81.0,0.0
+The Final Year,2017,"
+Documentary            ",6.4,"
+    Director:
+Greg Barker
+| 
+    Stars:
+Ben Rhodes, 
+Samantha Power, 
+John Kerry, 
+Susan Rice
+","3,191",89.0,0.19
+Pandora's Promise,2013,"
+Documentary            ",7.4,"
+    Director:
+Robert Stone
+| 
+    Stars:
+Stewart Brand, 
+Richard Rhodes, 
+Gwyneth Cravens, 
+Mark Lynas
+","1,858",87.0,0.07
+Revenge of the Electric Car,2011,"
+Documentary            ",7.2,"
+    Director:
+Chris Paine
+| 
+    Stars:
+Tim Robbins, 
+Dan Neil, 
+Danny DeVito, 
+Ray Wert
+","1,808",90.0,0.15
+Being Elmo: A Puppeteer's Journey,2011,"
+Documentary            ",7.6,"
+    Directors:
+Constance Marks, 
+Philip Shane
+| 
+    Stars:
+Kevin Clash, 
+Whoopi Goldberg, 
+Frank Oz, 
+Bill Barretta
+","6,897",80.0,0.3
+Meet the Mormons,2014,"
+Documentary            ",6.8,"
+    Director:
+Blair Treu
+| 
+    Stars:
+Jermaine Sullivan, 
+Ken Niumatalolo, 
+Carolina Muñoz Marin, 
+Bishnu Adhikari
+","1,973",78.0,5.88
+Dear Mr. Watterson,2013,"
+Documentary            ",6.4,"
+    Director:
+Joel Allen Schroeder
+| 
+    Stars:
+Berkeley Breathed, 
+Jef Mallett, 
+Stephan Pastis, 
+Seth Green
+","1,834",89.0,0.01
+An Act of War,2015,"
+Crime, Drama, Thriller            ",5.2,"
+    Director:
+Ryan M. Kennedy
+| 
+    Stars:
+Russ Russo, 
+Natasha Alam, 
+Doug E. Doug, 
+Joseph R. Gannascoli
+","1,422",99.0,0.11
+Hell and Back Again,2011,"
+Documentary, Action, History            ",6.5,"
+    Director:
+Danfung Dennis
+| 
+    Stars:
+Nathan Harris, 
+Ashley Harris, 
+The Marines of Echo Company, 
+Christian Cabaniss
+","2,236",88.0,0.04
+The Waiting Room,2012,"
+Documentary            ",7.1,"
+    Director:
+Peter Nicks
+| 
+    Star:
+Sean Bennett
+",785,81.0,0.24
+Blood Brother,2013,"
+Documentary            ",8.3,"
+    Director:
+Steve Hoover
+| 
+    Stars:
+Rocky Braat, 
+Steve Hoover, 
+Anitha, 
+Devi
+","1,618",92.0,0.12
+GMO OMG,2013,"
+Documentary            ",6.4,"
+    Director:
+Jeremy Seifert
+| 
+    Stars:
+Jeremy Seifert, 
+Vandana Shiva, 
+Cary Fowler, 
+Dennis Kucinich
+","1,445",90.0,0.04
+Spark: A Burning Man Story,2013,"
+Documentary, Action, Biography            ",6.2,"
+    Directors:
+Steve Brown, 
+Jessie Deeter
+| 
+    Stars:
+Harley K. Dubois, 
+Marian Goodell, 
+Larry Harvey, 
+John Law
+",562,90.0,0.12
+The Comedians of Comedy,2005,"
+Comedy, Documentary            ",7.3,"
+    Director:
+Michael Blieden
+| 
+    Stars:
+Patton Oswalt, 
+Brian Posehn, 
+Maria Bamford, 
+Zach Galifianakis
+","2,558",103.0,0.0
+Sunrise,2014,"
+Crime, Drama, Mystery            ",6.3,"
+    Director:
+Partho Sen-Gupta
+| 
+    Stars:
+Adil Hussain, 
+Tannishtha Chatterjee, 
+Gulnaaz Ansari, 
+Komal Gupta
+",279,85.0,0.0
+The Search for General Tso,2014,"
+Documentary, Comedy, History            ",6.9,"
+    Director:
+Ian Cheney
+| 
+    Stars:
+Susan Carter, 
+Ian Cheney, 
+Philip Chiang, 
+Andrew Coe
+","1,726",71.0,0.01
+The Garden,2008,"
+Documentary            ",7.3,"
+    Director:
+Scott Hamilton Kennedy
+| 
+    Stars:
+Danny Glover, 
+Daryl Hannah, 
+Antonio Villaraigosa
+",716,80.0,0.03
+Gore Vidal: The United States of Amnesia,2013,"
+Documentary, Biography, History            ",7.7,"
+    Director:
+Nicholas D. Wrathall
+| 
+    Stars:
+Gore Vidal, 
+Howard Auster, 
+James Best, 
+Karen Black
+","1,243",83.0,0.13
+"Maxed Out: Hard Times, Easy Credit and the Era of Predatory Lenders",2006,"
+Documentary            ",7.2,"
+    Director:
+James D. Scurlock
+| 
+    Stars:
+Beth Naef, 
+Mike Hudson, 
+Louis C.K., 
+Catherine Brown
+","2,181",90.0,0.06
+After Tiller,2013,"
+Documentary, Biography, Drama            ",7.4,"
+    Directors:
+Martha Shane, 
+Lana Wilson
+| 
+    Stars:
+George Tiller, 
+Warren Hern, 
+Leroy Carhart, 
+Susan Robinson
+","1,046",85.0,0.07
+Red Trees,2017,"
+Documentary            ",6.4,"
+    Director:
+Marina Willer
+| 
+    Stars:
+Alfred Willer, 
+Tim Pigott-Smith, 
+Flora Fanelli, 
+Alfie Watson
+",136,87.0,0.01
+Big Words,2013,"
+Comedy, Drama            ",5.9,"
+    Director:
+Neil Drumming
+| 
+    Stars:
+Dorian Missick, 
+Suzy Jane Hunt, 
+Gbenga Akinnagbe, 
+Darien Sills-Evans
+",277,93.0,0.01
+Roving Mars,2006,"
+Documentary, Short            ",7.3,"
+    Director:
+George Butler
+| 
+    Stars:
+Paul Newman, 
+Steve Squyres, 
+Rob Manning, 
+Charles Elachi
+","1,022",40.0,10.4
+Making the Boys,2011,"
+Documentary, Biography, Romance            ",7.3,"
+    Director:
+Crayton Robey
+| 
+    Stars:
+Edward Albee, 
+Joe Allen, 
+Matt Baney, 
+David Carter
+",579,90.0,0.03
+God Loves Uganda,2013,"
+Documentary            ",7.4,"
+    Director:
+Roger Ross Williams
+","1,179",83.0,0.05
+Restless Creature: Wendy Whelan,2016,"
+Documentary            ",7.1,"
+    Directors:
+Linda Saffire, 
+Adam Schlesinger
+| 
+    Stars:
+Peter Martins, 
+David Prottas, 
+Wendy Whelan
+",361,90.0,0.13
+Danny Says,2015,"
+Documentary, Biography, History            ",6.7,"
+    Director:
+Brendan Toller
+| 
+    Stars:
+Mx Justin Vivian Bond, 
+John Cale, 
+Judy Collins, 
+Alice Cooper
+",779,105.0,0.04
+Facing Darkness,2017,"
+Documentary, Drama            ",7.3,"
+    Director:
+Arthur Rasco
+| 
+    Stars:
+Franklin Graham, 
+Kent Brantly, 
+Amber Brantly, 
+Writebol Nancy
+",88,93.0,0.56
+Louder Than a Bomb,2010,"
+Documentary            ",7.5,"
+    Directors:
+Greg Jacobs, 
+Jon Siskel
+| 
+    Stars:
+Kevin Coval, 
+Adam Gottlieb, 
+Elizabeth Graf, 
+Kevin Harris
+",373,99.0,0.04
+Vidal Sassoon: The Movie,2010,"
+Documentary            ",6.5,"
+    Director:
+Craig Teper
+| 
+    Stars:
+Beverly Adams, 
+Elgin Charles, 
+Grace Coddington, 
+Michael Gordon
+",245,90.0,0.09
+Men at Lunch,2012,"
+Documentary, Mystery            ",6.3,"
+    Director:
+Seán Ó Cualáin
+| 
+    Stars:
+Fionnula Flanagan, 
+Peter Quinn, 
+Ric Burns, 
+Christine Roussel
+",331,75.0,0.0
+Decoding Deepak,2012,"
+Documentary            ",5.5,"
+    Director:
+Gotham Chopra
+| 
+    Stars:
+Deepak Chopra, 
+Gotham Chopra
+",124,83.0,0.01
+Theo Who Lived,2016,"
+Documentary            ",6.8,"
+    Director:
+David Schisgall
+| 
+    Star:
+Theo Padnos
+",111,86.0,0.01
+Southern Justice,2006,"
+Action, Adventure, Thriller            ",3.1,"
+    Director:
+M.D. Selig
+| 
+    Stars:
+M.D. Selig, 
+Michael Childers, 
+Lisa Robert, 
+Rico Cymone
+",126,96.0,0.14
