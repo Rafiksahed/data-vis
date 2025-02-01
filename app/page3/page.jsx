@@ -1,9 +1,18 @@
 import React from 'react'
 import Styles from './page.module.css'
+import AverageGrossByDirector from './components/realRec'
+import MoviesByDirectorChart from './components/real'
+import GrossByYearChart from './components/recette'
+import TopGrossingMovies from './components/topRec'
 
 function Page3() {
   return (
-    <div>Page3</div>
+    <div className={Styles.test}>
+       <AverageGrossByDirector/>
+       <MoviesByDirectorChart/>
+       <GrossByYearChart/>
+       <TopGrossingMovies/>
+    </div>
   )
 }
 

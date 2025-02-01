@@ -1,9 +1,19 @@
 import React from 'react'
 import Styles from './page.module.css'
+import TopRatedMovies from './component/topNote'
+import TopVotedMovies from './component/topPopu'
+import RatingDistributionChart from './component/note'
+import RuntimeRatingScatterPlot from './component/durNote'
 
 function Page2() {
   return (
-    <div>Page 2</div>
+    <div className={Styles.test}>
+       <TopRatedMovies/>
+       <TopVotedMovies/>
+       <RatingDistributionChart/>
+       <RuntimeRatingScatterPlot/>
+
+    </div>
   )
 }
 
