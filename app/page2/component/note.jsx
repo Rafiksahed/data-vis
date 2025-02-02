@@ -20,19 +20,26 @@ const RatingDistributionChart = () => {
   useEffect(() => {
     if (data.length === 0) return;
 
-    const width = 800;
+    const width = 500;
     const height = 400;
-    const margin = { top: 20, right: 30, bottom: 40, left: 40 };
+    const margin = { top: 50, right: 30, bottom: 40, left: 40 };
 
     const svg = d3.select(svgRef.current)
       .attr("width", width)
       .attr("height", height)
-      .style("background-color", "#f9f9f9");
+   
 
     const xScale = d3.scaleLinear().domain([0, 10]).range([margin.left, width - margin.right]);
     const histogram = d3.bin().domain(xScale.domain()).thresholds(10)(data.map((d) => d.rating));
     const yScale = d3.scaleLinear().domain([0, d3.max(histogram, (d) => d.length) || 1]).range([height - margin.bottom, margin.top]);
-
+    svg.append("text")
+    .attr("x", width / 2)
+    .attr("y", margin.top / 2)
+    .attr("text-anchor", "middle")
+    .attr("font-size", "16px")
+    .attr("font-weight", "bold")
+    .text("distribution des notes");
+  
     svg.selectAll("rect")
       .data(histogram)
       .enter()

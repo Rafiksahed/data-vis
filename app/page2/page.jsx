@@ -8,11 +8,18 @@ import RuntimeRatingScatterPlot from './component/durNote'
 function Page2() {
   return (
     <div className={Styles.test}>
-       <TopRatedMovies/>
-       <TopVotedMovies/>
-       <RatingDistributionChart/>
+      <div>
+        <div className={Styles.Bar}>
+         <TopRatedMovies/>
+        </div>
+        <RatingDistributionChart/>
+      </div>
+      <div>
        <RuntimeRatingScatterPlot/>
-
+       <div className={Styles.Bar}>
+        <TopVotedMovies/>
+       </div>
+      </div>
     </div>
   )
 }

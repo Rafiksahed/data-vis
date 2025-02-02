@@ -8,10 +8,23 @@ import RevenueByGenre from './component/recette'
 function Page1() {
   return (
     <div className={Styles.test}>
-         <AvgRuntimeByGenre/>
-         <GenreDistribution/>
-         <RevenueByGenre/>
-         <VotesByGenre/>
+      <div>
+       <div className={Styles.Box}>
+        <AvgRuntimeByGenre />
+       </div>
+       <div className={Styles.pie}>
+        <GenreDistribution/>
+       </div>
+       
+      </div>
+      <div>
+       <RevenueByGenre/>
+       <div className={Styles.vote}>
+        <VotesByGenre/>
+       </div>
+       
+      </div>
+
     </div>
   )
 }

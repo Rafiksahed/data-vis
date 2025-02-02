@@ -24,14 +24,14 @@ const RuntimeRatingScatterPlot = () => {
   useEffect(() => {
     if (data.length === 0) return;
 
-    const width = 800;
+    const width = 500;
     const height = 400;
-    const margin = { top: 20, right: 30, bottom: 40, left: 50 };
+    const margin = { top: 55, right: 30, bottom: 40, left: 50 };
 
     const svg = d3.select(svgRef.current)
       .attr("width", width)
       .attr("height", height)
-      .style("background-color", "#f9f9f9");
+     
 
     const xScale = d3.scaleLinear()
       .domain([0, d3.max(data, (d) => d.runtime) || 1])
@@ -40,11 +40,18 @@ const RuntimeRatingScatterPlot = () => {
     const yScale = d3.scaleLinear()
       .domain([0, 10]) // Les notes vont de 0 à 10
       .range([height - margin.bottom, margin.top]);
-
+    svg.append("text")
+      .attr("x", width / 2)
+      .attr("y", margin.top / 2)
+      .attr("text-anchor", "middle")
+      .attr("font-size", "16px")
+      .attr("font-weight", "bold")
+      .text("Note par runtime scatter Plot");
+    
     // Axes
     svg.append("g")
       .attr("transform", `translate(0,${height - margin.bottom})`)
-      .call(d3.axisBottom(xScale).ticks(10).tickFormat((d) => `${d} min`));
+      .call(d3.axisBottom(xScale).ticks(10).tickFormat((d) => `${d}`));
 
     svg.append("g")
       .attr("transform", `translate(${margin.left},0)`)

@@ -79,7 +79,7 @@ const AvgRevenueByGenre = () => {
 
   return (
     <div>
-      <h3>Moyenne des recettes par genre (vertical)</h3>
+      <h3>Moyenne des budget par genre (vertical)</h3>
       <svg ref={svgRef}></svg>
     </div>
   );

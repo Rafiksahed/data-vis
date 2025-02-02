@@ -1,63 +1,103 @@
-
-
 /* ==============================
    🔹 Styles de la Navigation
    ============================== */
 
-.nav {
-  width: 250px; /* Largeur de la nav */
-  height: 100vh; /* Pleine hauteur */
-  background-color: #1e1e2f; /* Fond sombre */
-  color: white;
-  position: fixed;
-  left: 0;
-  top: 0;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding-top: 20px;
-}
-
-/* ==============================
-   🔹 Liste des liens
-   ============================== */
-
-.ul {
-  list-style: none;
-  padding: 0;
-  width: 100%;
-}
-
-.li {
-  width: 100%;
-  text-align: center;
-}
-
-.link {
-  display: block;
-  width: 100%;
-  padding: 15px 0;
-  color: white;
-  text-decoration: none;
-  font-size: 18px;
-  font-weight: 500;
-  transition: background 0.3s ease;
-}
-
-.link:hover {
-  background-color: #29293d; /* Effet hover */
-}
-
-/* ==============================
-   🔹 Responsive Design
-   ============================== */
-
-@media (max-width: 768px) {
-  .nav {
-    width: 200px;
+   .nav {
+    width: 220px;
+    height: 100vh;
+    background-color: #1e1e2f;
+    color: white;
+    position: fixed;
+    left: 0;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 15px; /* Réduction de l’espacement en haut */
   }
-
+  
+  /* ==============================
+     🔹 Section du logo (Home)
+     ============================== */
+  
+  .logoContainer {
+    display: flex;
+    color: white;
+    align-items: center;
+    gap: 4px; /* Réduction de l’écart entre l’icône et le texte */
+    margin-bottom: 20px; /* Réduction de l’espace avec les autres liens */
+  }
+  
+  .logoLink {
+    display: flex;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+    font-size: 22px; /* Ajustement de la taille du texte */
+    font-weight: bold;
+    transition: transform 0.3s ease;
+  }
+  
+  .logoIcon {
+    width: 24px;
+    height: 24px;
+  }
+  
+  .logoLink:hover {
+    transform: scale(1.05);
+  }
+  
+  /* ==============================
+     🔹 Liste des liens
+     ============================== */
+  
+  .ul {
+    list-style: none;
+    margin-top: 70%;
+    padding: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Alignement vers le haut */
+    flex-grow: 1;
+  }
+  
+  .li {
+    width: 100%;
+    text-align: center;
+    margin-top: 20%;
+  }
+  
   .link {
-    font-size: 16px;
+    display: block;
+    width: 100%;
+    padding: 10px 20px; /* Réduction du padding vertical */
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem; /* Réduction de la taille des liens */
+    font-weight: 500;
+    transition: background 0.3s ease;
   }
-}
+  
+  .link:hover {
+    background-color: #29293d;
+  }
+  
+  /* ==============================
+     🔹 Responsive Design
+     ============================== */
+  
+  @media (max-width: 768px) {
+    .nav {
+      width: 200px;
+    }
+  
+    .link {
+      font-size: 14px;
+    }
+  
+    .logoLink {
+      font-size: 18px;
+    }
+  }
+  

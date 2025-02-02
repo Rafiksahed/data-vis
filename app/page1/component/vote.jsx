@@ -41,14 +41,14 @@ const VotesByGenre = () => {
   useEffect(() => {
     if (data.length === 0) return;
 
-    const width = 1000;
+    const width = 600;
     const height = 400;
-    const margin = { top: 20, right: 30, bottom: 40, left: 150 };
+    const margin = { top: 50, right: 100, bottom: 40, left: 70 };
 
     const svg = d3.select(svgRef.current)
       .attr("width", width)
       .attr("height", height)
-      .style("background-color", "#f9f9f9"); // Ajouter un fond pour le SVG
+      
 
     // Échelles
     const xScale = d3.scaleLinear()
@@ -59,7 +59,15 @@ const VotesByGenre = () => {
       .domain(data.map(d => d.genre))
       .range([margin.top, height - margin.bottom])
       .padding(0.1);
+  svg.append("text")
+  .attr("x", width / 2)
+  .attr("y", margin.top / 2)
+  .attr("text-anchor", "middle")
+  .attr("font-size", "16px")
+  .attr("font-weight", "bold")
+  .text("Votes moyens par genre (Top 10)");
 
+    
     // Axes
     svg.append("g")
       .attr("transform", `translate(0,${height - margin.bottom})`)

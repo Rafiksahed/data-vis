@@ -1,4 +1,5 @@
 "use client";
+
 import { useEffect, useRef, useState } from "react";
 import * as d3 from "d3";
 
@@ -30,33 +31,46 @@ const LineChart = () => {
 
     const width = 600;
     const height = 300;
-    const margin = { top: 20, right: 30, bottom: 30, left: 50 };
+    const margin = { top: 40, right: 30, bottom: 30, left: 50 };
 
-    const svg = d3.select(svgRef.current)
-      .attr("width", width)
-      .attr("height", height);
+    const svg = d3.select(svgRef.current);
+    svg.selectAll("*").remove(); // Nettoyer le contenu précédent
+
+    svg.attr("width", width).attr("height", height);
 
     const xScale = d3.scaleLinear()
-      .domain(d3.extent(data, d => d.year))
+      .domain(d3.extent(data, (d) => d.year))
       .range([margin.left, width - margin.right]);
 
     const yScale = d3.scaleLinear()
-      .domain([0, d3.max(data, d => d.count)])
+      .domain([0, d3.max(data, (d) => d.count)])
       .range([height - margin.bottom, margin.top]);
 
     const line = d3.line()
-      .x(d => xScale(d.year))
-      .y(d => yScale(d.count))
+      .x((d) => xScale(d.year))
+      .y((d) => yScale(d.count))
       .curve(d3.curveMonotoneX);
 
+    // Titre du graphique
+    svg.append("text")
+      .attr("x", width / 2)
+      .attr("y", margin.top / 2)
+      .attr("text-anchor", "middle")
+      .attr("font-size", "16px")
+      .attr("font-weight", "bold")
+      .text("Nombre de films par année");
+
+    // Axe X
     svg.append("g")
       .attr("transform", `translate(0,${height - margin.bottom})`)
       .call(d3.axisBottom(xScale).tickFormat(d3.format("d")));
 
+    // Axe Y
     svg.append("g")
       .attr("transform", `translate(${margin.left},0)`)
       .call(d3.axisLeft(yScale));
 
+    // Tracé de la ligne
     svg.append("path")
       .datum(data)
       .attr("fill", "none")

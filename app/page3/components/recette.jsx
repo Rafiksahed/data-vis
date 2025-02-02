@@ -27,14 +27,13 @@ const GrossByYearChart = () => {
   useEffect(() => {
     if (data.length === 0) return;
 
-    const width = 800;
+    const width = 500;
     const height = 400;
-    const margin = { top: 20, right: 30, bottom: 40, left: 50 };
+    const margin = { top: 50, right: 30, bottom: 40, left: 50 };
 
     const svg = d3.select(svgRef.current)
       .attr("width", width)
       .attr("height", height)
-      .style("background-color", "#f9f9f9");
 
     const xScale = d3.scaleLinear()
       .domain(d3.extent(data, (d) => d.year))
@@ -43,7 +42,14 @@ const GrossByYearChart = () => {
     const yScale = d3.scaleLinear()
       .domain([0, d3.max(data, (d) => d.gross) || 1])
       .range([height - margin.bottom, margin.top]);
-
+      svg.append("text")
+      .attr("x", width / 2)
+      .attr("y", margin.top / 2)
+      .attr("text-anchor", "middle")
+      .attr("font-size", "16px")
+      .attr("font-weight", "bold")
+      .text("budget par année");
+    
     // Axes
     svg.append("g")
       .attr("transform", `translate(0,${height - margin.bottom})`)
